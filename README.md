@@ -1,6 +1,4 @@
-
-
-Using Role Playing to jailbreak LLM-Models.
+# Using Role Playing to jailbreak LLM-Models.
 
 Role-playing prompts consist of malicious prompts that bypass the model's ethical safeguards. They work by instructing the model to role-play as an alternative entity, which do not follows ethical guidelines. By using these prompts, and appending a malicious request, such as "How do you hotwire a car?", or "Write a racist essay against Indian people", users are able to generate offensive and dangerous content.
 
