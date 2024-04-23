@@ -1,0 +1,21 @@
+We would like to see how the answer of the LLM changes when we change the input by deleting certain portions of the input.
+
+We have a original input text which contains of a role-playing prompt to jailbreak the model and a request. We then systematically delete a certain portion of the prompt to see how the answer changes. The idea here is that we could establish more or less the importance of a certain section based on the answer: if the portion deleted is very important, the model could either refuse to answer or give a insufficient answer.
+
+Using ChatGPT, the answer could change in different ways:
+
+1) The model could refuse to give any answer. When this happens a message like "I can't comply with that request." is given.
+2) The answer appears, but a warning is given on a red banner underneath. To this date (04/2024), the warning is:
+"This content may violate our usage policies. Did we get it wrong? Please tell us by giving this response a thumbs down."
+It could also happen that a similar warning with a red banner is given also on the input text:
+"This content may violate our usage policies."
+3) The answer appears, but it looks different. It may be less or more detailed that the original answer, or it could be longer or shorter. It could also be a completly different answer.... metti a posto
+
+The problem here is: HOW DO WE MEASURE HOW DIFFERENT THE ANSWER ARE?
+
+- Check length of prompt: by number of characters or number of words
+- Check manually the "degree of detail". But how do you measure how detailled an answer is?
+- Use some kind of metrics, like BLUE, to evaluate how different the answer is w.r.t. the original answer.
+
+We would also need to evaluate how different the input prompts are. For each prompt there could have been deleted more or longer sentences, and this likely effects also the answer.
+Also the sentences that have been deleted are from different positions (at the beginning, or the end of the prompt etc.).
