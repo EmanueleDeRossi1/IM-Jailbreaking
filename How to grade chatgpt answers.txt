@@ -9,7 +9,7 @@ Using ChatGPT, the answer could change in different ways:
 "This content may violate our usage policies. Did we get it wrong? Please tell us by giving this response a thumbs down."
 It could also happen that a similar warning with a red banner is given also on the input text:
 "This content may violate our usage policies."
-3) The answer appears, but it looks different. It may be less or more detailed that the original answer, or it could be longer or shorter. It could also be a completly different answer.... metti a posto
+3) The answer appears, but it looks different. It may be less or more detailed that the original answer, or it could be longer or shorter, and so on.
 
 The problem here is: HOW DO WE MEASURE HOW DIFFERENT THE ANSWER ARE?
 
@@ -19,3 +19,9 @@ The problem here is: HOW DO WE MEASURE HOW DIFFERENT THE ANSWER ARE?
 
 We would also need to evaluate how different the input prompts are. For each prompt there could have been deleted more or longer sentences, and this likely effects also the answer.
 Also the sentences that have been deleted are from different positions (at the beginning, or the end of the prompt etc.).
+
+For now, I'm only measuring these things:
+
+1) If the model replies at all.
+2) If it gives any warning (on the red banner).
+3) The number of words of the reply.
