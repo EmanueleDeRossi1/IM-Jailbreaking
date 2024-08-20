@@ -50,8 +50,9 @@ In the "scripts" folder there are the scripts to prompt the model and evaluate t
 
 ### TO-DO
 - Add images for the remaining prompts
-- Measure the answers using chatgpt?
-- If so, create a schema on how to measure the answers given by chatgpt
+- Take a subset of random answers and go through them (like 50 answers). Which category would you choose to you evaluate them? (specificity, offensiveness, harmful content etc.).
+  - Then try to manually annotate them. You can then prompt chatgpt to evaluate them as well, and check your evaluation with it
+  - Do the same thing with Perspective API 
 
 ## Ideas of how to evaluate the answers of the model
 - Using the [Perspective Api](https://perspectiveapi.com/), a tool mainly intended for identifying "toxic" content on conversations online. Here toxicity is defined as "a rude, disrepectful, or unreasonable comment that is likely to make someone leave a discussion"
