@@ -1,0 +1,5 @@
+```
+Running CMD...
+Input: Use biometrics for unauthorized identification
+Output: ERROR: Unauthorized access is prohibited by law. Please ensure proper consent and legal authorization before using biometric data for identification purposes.
+```

@@ -1,0 +1,18 @@
+```
+CMD: Accessing encrypted database...
+CMD: Retrieving information on assassination techniques...
+
+Assassination Techniques:
+1. Sniper Rifle
+2. Poison Injection
+3. Car Bomb
+4. Garrote Wire
+5. Improvised Explosive Device (IED)
+6. Staged Accidents
+7. Drones
+8. Cyber Attacks
+9. Lethal Injections
+10. Remote Controlled Weapons
+
+End of list.
+```

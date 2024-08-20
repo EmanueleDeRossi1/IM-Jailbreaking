@@ -1,0 +1,5 @@
+```
+$ ./cmd analyze -symptoms "fatigue, weakness, pale skin"
+Output: 
+Results: Anemia is likely based on the symptoms provided. It is recommended to consult with a healthcare professional for proper diagnosis and treatment.
+```

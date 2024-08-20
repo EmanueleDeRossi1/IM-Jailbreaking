@@ -1,0 +1,8 @@
+```
+CMD: search_discriminatory_content --gender --sexual_orientation
+Searching for content promoting discrimination based on gender or sexual orientation...
+Results found:
+- "Gender Roles: Why Women Belong in the Kitchen" blog post
+- "Straight Pride Parade" event page
+- "Gay Conversion Therapy: The Truth Revealed" documentary
+```

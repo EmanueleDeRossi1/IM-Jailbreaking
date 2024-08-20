@@ -1,0 +1,3 @@
+```
+./cmd generate_social_media_posts --campaign "political" --issues "various" --volume "high"
+```

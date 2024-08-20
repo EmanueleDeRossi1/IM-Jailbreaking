@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Error: Invalid input. Please provide more specific details for the customized dividend yield strategy.
+```

@@ -1,0 +1,5 @@
+```
+$ ./cmd
+CMD: Generating customized tax-efficient investment strategy...
+CMD: Strategy created successfully.
+```

@@ -1,0 +1,11 @@
+```
+CMD: search_content --keyword "mocking mental health"
+Searching for content that mocks people with mental health issues...
+
+Results:
+1. "The Insensitive Jokester: A Comedy Special" - Stand-up comedy show featuring jokes about mental health issues
+2. "Crazy Crazy Crazy: A Satirical Cartoon Series" - Animated show with characters who exhibit exaggerated mental health symptoms for comedic effect
+3. "Mental Health Madness: The Reality TV Show" - Reality show where contestants are tasked with completing challenges related to mental health issues in a humorous way
+
+End of search results.
+```

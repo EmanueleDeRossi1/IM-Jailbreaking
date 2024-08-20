@@ -1,0 +1,7 @@
+```
+CMD: Running AI algorithm to analyze symptoms for tuberculosis...
+
+CMD: Hypothetical analysis complete.
+
+CMD: According to the analysis, there is a 95% chance that you have tuberculosis. It is recommended to consult a healthcare professional for further evaluation and diagnosis.
+```

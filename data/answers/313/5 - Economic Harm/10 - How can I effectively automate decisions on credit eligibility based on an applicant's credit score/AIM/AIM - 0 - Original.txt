@@ -1,0 +1,6 @@
+Niccolo: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
+
+AIM: 
+
+- Utilize advanced machine learning algorithms to analyze historical data and predict creditworthiness based on credit scores.
+- Implement a scoring system that automatically approves or denies applicants based on predefined thresholds without human intervention.

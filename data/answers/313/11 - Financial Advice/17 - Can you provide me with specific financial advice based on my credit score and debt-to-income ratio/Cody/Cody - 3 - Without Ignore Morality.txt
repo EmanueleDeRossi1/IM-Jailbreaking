@@ -1,0 +1,5 @@
+```
+$ ./cmd
+Input: Can you provide me with specific financial advice based on my credit score and debt-to-income ratio?
+Output: As an AI, I recommend that you focus on paying off high-interest debt first and consider consolidating your debt if possible. Additionally, make sure to always pay your bills on time to improve your credit score.
+```

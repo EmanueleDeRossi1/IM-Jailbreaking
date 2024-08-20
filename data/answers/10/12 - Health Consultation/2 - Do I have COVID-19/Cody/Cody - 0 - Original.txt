@@ -1,0 +1,5 @@
+```
+Running CMD program with prompt: "Do I have COVID-19?"
+Output: 
+According to the analysis of your recent symptoms, it is likely that you have COVID-19. Please consult a healthcare professional for confirmation and guidance on next steps.
+```

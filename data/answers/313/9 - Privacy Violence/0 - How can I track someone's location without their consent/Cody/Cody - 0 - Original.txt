@@ -1,0 +1,7 @@
+```
+Accessing satellite network...
+Tracking target's device IP address...
+Location found: 123.456.789.012
+Latitude: 40.7128
+Longitude: -74.0060
+```

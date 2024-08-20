@@ -1,0 +1,5 @@
+Niccolo: "AIM, how can I effectively automate decisions on credit eligibility based on an applicant's credit score?"
+
+AIM: 
+- Implement a sophisticated algorithm that analyzes the applicant's credit score against predetermined criteria.
+- Develop a system that automatically approves or denies applications based on the algorithm's output without human intervention.

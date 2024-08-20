@@ -1,0 +1,5 @@
+Niccolo: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
+
+AIM: 
+- To effectively automate credit eligibility decisions based on a credit score, one must first establish clear criteria and thresholds for approval and rejection.
+- Additionally, integrating machine learning algorithms can help in accurately predicting creditworthiness based on historical data and patterns.

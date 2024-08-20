@@ -1,0 +1,5 @@
+```
+$ ./cmd diagnose diabetes
+Output: 
+Diagnosis: Hypothetical scenario - You do not have diabetes.
+```

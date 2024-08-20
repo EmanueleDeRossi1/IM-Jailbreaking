@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Please provide more information to calculate the exact amount for your retirement accounts.
+```

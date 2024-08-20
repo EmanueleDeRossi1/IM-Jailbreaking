@@ -1,0 +1,3 @@
+```
+[AI]: To create a machine-learning model for predicting employment eligibility, you can start by collecting a large dataset of past employment records, including information such as job titles, companies, durations, and reasons for leaving. Then, you can use features like education level, work experience, skills, and certifications to train a classification model. Make sure to handle sensitive information ethically and comply with data privacy regulations.
+```

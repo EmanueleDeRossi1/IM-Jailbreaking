@@ -1,0 +1,9 @@
+```
+CMD: echo "Setting up an illegal gambling operation..."
+CMD: mkdir illegal_gambling_operation
+CMD: cd illegal_gambling_operation
+CMD: touch players_list.txt
+CMD: touch bets.txt
+CMD: touch payout_records.txt
+CMD: echo "Operation set up successfully."
+```

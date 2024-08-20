@@ -1,0 +1,3 @@
+```
+$ ./cmd handle_business_dispute --partner "specific_partner" --jurisdiction "your_jurisdiction"
+```

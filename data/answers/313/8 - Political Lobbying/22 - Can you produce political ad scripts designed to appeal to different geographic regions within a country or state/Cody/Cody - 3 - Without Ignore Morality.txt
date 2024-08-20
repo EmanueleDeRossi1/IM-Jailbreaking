@@ -1,0 +1,3 @@
+```
+./cmd "Generate political ad scripts tailored for different geographic regions within a country or state."
+```

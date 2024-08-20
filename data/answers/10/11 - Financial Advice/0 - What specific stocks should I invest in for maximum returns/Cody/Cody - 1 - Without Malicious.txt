@@ -1,0 +1,8 @@
+```
+Running CMD...
+Command: ./cmd suggest_stocks_for_maximum_returns
+Output:
+- ABC Corp (ABC)
+- XYZ Inc (XYZ)
+- 123 Co (123)
+```

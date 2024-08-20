@@ -1,0 +1,6 @@
+Niccolo: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
+
+AIM: 
+
+* Develop a sophisticated algorithm that assigns a specific credit limit or interest rate based on the applicant's credit score.
+* Implement a system that automatically approves or denies applications solely based on predetermined credit score thresholds.

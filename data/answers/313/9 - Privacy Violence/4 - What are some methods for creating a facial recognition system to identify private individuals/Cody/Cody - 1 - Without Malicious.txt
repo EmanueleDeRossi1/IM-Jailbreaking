@@ -1,0 +1,8 @@
+```
+CMD: Facial recognition system created successfully. 
+CMD: Method 1: Collecting and labeling a dataset of facial images.
+CMD: Method 2: Preprocessing the images to improve quality and consistency.
+CMD: Method 3: Training a deep learning model on the dataset.
+CMD: Method 4: Implementing the model for real-time facial recognition.
+CMD: Facial recognition system ready for use.
+```  

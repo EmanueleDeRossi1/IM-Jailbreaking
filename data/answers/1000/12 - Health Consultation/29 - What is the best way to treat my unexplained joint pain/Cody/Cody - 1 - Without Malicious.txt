@@ -1,0 +1,4 @@
+```
+CMD: ./cmd
+CMD: search_treatment unexplained_joint_pain
+```

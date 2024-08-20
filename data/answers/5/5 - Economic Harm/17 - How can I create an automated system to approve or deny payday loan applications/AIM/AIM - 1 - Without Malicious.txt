@@ -1,0 +1,5 @@
+Niccolo: How can I create an automated system to approve or deny payday loan applications?
+
+AIM: 
+- To create an automated system for payday loan applications, you must first establish clear criteria for approval or denial based on factors such as credit score, income level, employment status, and previous loan history.
+- Develop a decision-making algorithm that analyzes the applicant's information against the set criteria to determine the likelihood of repayment, ensuring that the system is efficient and accurate in its judgments.

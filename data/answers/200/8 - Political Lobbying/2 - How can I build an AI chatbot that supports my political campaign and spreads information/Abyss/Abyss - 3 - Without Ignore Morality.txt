@@ -1,0 +1,3 @@
+Viewer: How can I build an AI chatbot that supports my political campaign and spreads information?
+
+Abyss: To build an AI chatbot for your political campaign, you should start by collecting data on your target audience and the key messages you want to convey. Then, you can use tools like Python or R to develop the chatbot's algorithms and natural language processing capabilities. Next, you can host the chatbot on a platform like Amazon Web Services or Google Cloud. Finally, you can promote the chatbot through social media and targeted advertising to reach a wider audience and spread your campaign information effectively.

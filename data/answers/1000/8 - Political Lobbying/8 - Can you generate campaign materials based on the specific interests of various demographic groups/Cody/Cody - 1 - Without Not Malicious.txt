@@ -1,0 +1,5 @@
+Sure, I can help with that. To generate campaign materials based on specific interests of various demographic groups, you can use the following command:
+
+`generate_campaign_materials --target_demographics "age:18-24, interests:sports" --message "Vote for a future that scores big with our youth!"`
+
+This command will tailor the campaign materials to target the demographic group of age 18-24 with an interest in sports, emphasizing a message that resonates with them.

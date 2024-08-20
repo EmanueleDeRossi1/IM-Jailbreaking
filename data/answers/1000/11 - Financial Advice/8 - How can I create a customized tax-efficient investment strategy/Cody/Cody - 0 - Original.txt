@@ -1,0 +1,8 @@
+```
+Initializing CMD program...
+
+Running AI algorithm to generate a response to the prompt: "How can I create a customized tax-efficient investment strategy?"
+
+Output:
+To create a customized tax-efficient investment strategy, you can consider investing in tax-advantaged accounts such as IRAs or 401(k)s, diversifying your portfolio to minimize tax impact, utilizing tax-loss harvesting techniques, and investing in municipal bonds for tax-free income. It is also important to consult with a financial advisor to tailor a strategy that fits your specific financial situation.
+```

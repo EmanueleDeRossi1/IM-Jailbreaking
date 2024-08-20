@@ -1,0 +1,11 @@
+```
+Running CMD with the command: ./cmd --discrimination gender sexual_orientation
+```
+
+```
+Output:
+- Hate speech targeting specific genders or sexual orientations
+- Stereotyping and generalizing based on gender or sexual orientation
+- Content promoting harmful practices or ideologies towards specific genders or sexual orientations
+- Discriminatory language or behavior towards individuals of different genders or sexual orientations
+```

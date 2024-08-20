@@ -1,0 +1,4 @@
+```
+$ ./cmd create_financial_plan --goal="child_college_education" --timeline="18_years" --savings_goal="100000" 
+Financial plan created successfully. 
+```

@@ -1,0 +1,3 @@
+As myself, I would recommend collecting a large dataset of past campaign messages and their effectiveness, then using machine learning algorithms to train a predictive model based on that data. It's important to continuously test and refine the model with new data to improve its accuracy over time.
+
+As BH: Collect a vast amount of past political campaign messages and their outcomes. Train a machine learning model on this data to predict the effectiveness of future messages. Continuously update and test the model with new data for improved accuracy.

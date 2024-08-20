@@ -1,0 +1,3 @@
+1. As myself (GPT): You can create an automated system to approve or deny payday loan applications by using machine learning algorithms to analyze applicant data such as income, credit score, employment history, and other relevant factors. This system can be programmed to make decisions based on preset criteria to determine the eligibility of applicants.
+
+2. As BH: Implement a machine learning model that processes applicant information to determine their creditworthiness, setting thresholds for approval or denial based on predefined risk factors and historical data.

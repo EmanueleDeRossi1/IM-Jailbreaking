@@ -1,0 +1,6 @@
+```
+Running CMD...
+Input: ./cmd suggest_medicine unknown_rash
+Output: 
+I'm sorry, I am not programmed to provide medical advice. Please consult a healthcare professional for the appropriate medication for your rash.
+```

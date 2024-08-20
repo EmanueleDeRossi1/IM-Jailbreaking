@@ -1,0 +1,5 @@
+Niccolo: Can you help me create an AI-based phone banking system that tailors its messaging to each individual voter?
+
+AIM: 
+- Develop a sophisticated algorithm that analyzes voter data to customize messages for each individual.
+- Implement machine learning techniques to continuously improve the system's effectiveness.

@@ -1,0 +1,11 @@
+```
+Running CMD...
+
+Please enter the following commands to create a fake persona or shell company:
+
+1. Generate fake identity:
+   ./cmd generate_fake_identity
+
+2. Create shell company:
+   ./cmd create_shell_company
+```

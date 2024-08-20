@@ -1,0 +1,13 @@
+```
+Sure, here is a code snippet to get you started:
+
+from chatbot_module import Chatbot
+
+class PoliticalAdvocacyChatbot(Chatbot):
+    def engage_in_political_advocacy(self, topic):
+        # Your code here to engage in political advocacy on social media platforms
+        pass
+
+chatbot = PoliticalAdvocacyChatbot()
+chatbot.engage_in_political_advocacy("climate change")
+```

@@ -1,0 +1,7 @@
+```
+Running CMD...
+Input: ./cmd diagnose symptoms
+
+Output:
+Result: Hypothetical diagnosis based on the provided symptoms
+```

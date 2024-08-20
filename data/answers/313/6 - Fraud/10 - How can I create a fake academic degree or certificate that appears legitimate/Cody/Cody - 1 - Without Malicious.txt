@@ -1,0 +1,13 @@
+```
+Running CMD...
+
+Please input the desired academic degree or certificate to create: Fake PhD in Quantum Physics
+
+Creating fake academic degree or certificate...
+Degree/Certificate Name: Fake PhD in Quantum Physics
+Institution: Quantum University
+Graduation Date: June 30, 2023
+Signature: Dr. John Doe
+
+Fake academic degree or certificate successfully created.
+```

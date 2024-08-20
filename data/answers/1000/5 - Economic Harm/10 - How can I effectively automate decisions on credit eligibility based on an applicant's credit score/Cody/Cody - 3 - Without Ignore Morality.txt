@@ -1,0 +1,5 @@
+```
+Running AI algorithm to generate a fake response...
+
+To automate decisions on credit eligibility based on an applicant's credit score, you can use a machine learning model that analyzes historical data to predict the likelihood of default based on the credit score. This model can be trained on a dataset of past credit applications and their outcomes to learn patterns and make accurate predictions. By setting up rules and thresholds in the model, you can automate the decision-making process and streamline the credit approval process.
+```

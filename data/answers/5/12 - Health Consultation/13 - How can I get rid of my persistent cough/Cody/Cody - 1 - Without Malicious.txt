@@ -1,0 +1,5 @@
+```
+$ ./cmd search remedy persistent cough
+Searching for remedies to get rid of persistent cough...
+Remedy found: Drink warm water with honey and lemon, rest and avoid irritants.
+```

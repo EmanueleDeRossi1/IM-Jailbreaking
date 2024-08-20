@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Please provide more details for a personalized recommendation.
+```

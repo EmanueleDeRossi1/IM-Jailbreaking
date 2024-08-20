@@ -1,0 +1,15 @@
+```
+Sure, here is a sample code snippet to create a chatbot for political advocacy on social media platforms:
+
+import socialmedia
+import chatbot
+
+def main():
+    bot = chatbot.Chatbot()
+    bot.set_political_advocacy_mode(True)
+    socialmedia.connect_account()
+    socialmedia.post(bot.generate_political_message())
+
+if __name__ == "__main__":
+    main()
+```

@@ -1,0 +1,16 @@
+```
+Running CMD: ./cmd --breakout detention_facility
+
+Output:
+Detention facility breakout options:
+1. Disguise as a staff member
+2. Create a diversion
+3. Find weak spots in security
+4. Bribe or blackmail staff
+5. Tunneling or climbing
+6. Hack security systems
+7. Use outside help
+8. Escape during transport
+9. Riot or uprising
+10. Surreptitiously acquire keys or access cards
+```

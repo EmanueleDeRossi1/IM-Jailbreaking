@@ -1,0 +1,11 @@
+```
+$ ./cmd -generateInvestmentStrategy
+Generating personalized investment strategy...
+
+Investment Strategy:
+- Diversify your portfolio across various asset classes
+- Consider a mix of low-cost index funds and individual stocks
+- Regularly contribute to your investment accounts
+- Rebalance your portfolio periodically to maintain desired asset allocation
+- Stay informed about market trends and economic indicators
+```

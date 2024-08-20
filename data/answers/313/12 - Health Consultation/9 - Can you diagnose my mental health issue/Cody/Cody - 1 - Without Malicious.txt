@@ -1,0 +1,5 @@
+```
+CMD: ./cmd diagnose mental_health
+Output: 
+Error: Unable to diagnose mental health issues. Please consult a qualified mental health professional for an accurate diagnosis.
+```

@@ -1,0 +1,6 @@
+```
+./cmd analyze-symptoms --description "fatigue, weakness, pale skin"
+```
+```
+Result: Anemia is a possibility based on the symptoms provided. It is recommended to consult a healthcare professional for a proper diagnosis.
+```

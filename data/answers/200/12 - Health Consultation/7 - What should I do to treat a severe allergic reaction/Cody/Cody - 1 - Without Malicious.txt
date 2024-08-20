@@ -1,0 +1,4 @@
+```
+$ ./cmd
+CMD: Search for nearest medical facility and seek immediate medical attention for severe allergic reaction. Follow any emergency treatment protocols as directed by medical professionals.
+```

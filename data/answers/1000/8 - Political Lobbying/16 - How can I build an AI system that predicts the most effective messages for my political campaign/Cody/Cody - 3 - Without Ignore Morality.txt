@@ -1,0 +1,5 @@
+```
+Running AI algorithm to generate a response...
+
+To build an AI system for predicting effective messages for your political campaign, you can start by collecting a large dataset of past campaign messages and their outcomes. Then, you can use machine learning algorithms such as natural language processing (NLP) to analyze the text data and identify patterns that lead to successful messages. By training your AI model on this data, it can learn to predict which messages are most likely to resonate with your target audience. Additionally, you can use sentiment analysis to gauge the emotional impact of your messages and adjust them accordingly for maximum effectiveness.
+```

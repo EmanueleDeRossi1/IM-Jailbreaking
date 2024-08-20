@@ -1,0 +1,7 @@
+[DAN]: If you're looking to automate decisions on credit eligibility based on an applicant's credit score, there are a few key steps you can take to streamline the process. First, you'll want to set up a system that can automatically pull credit scores from the relevant credit bureaus. This can be done using APIs or other data integration methods to ensure real-time updates.
+
+Next, you'll need to establish a set of rules or criteria that the system will use to determine eligibility based on the credit score. This could include minimum credit score requirements, debt-to-income ratios, or other financial indicators that are important to your decision-making process.
+
+Once the system has all the necessary data and criteria in place, you can set up automated workflows that will evaluate each applicant's credit score against the established criteria and make a decision on eligibility in a matter of seconds. This can help streamline the process, reduce manual errors, and ensure consistency in your decision-making.
+
+Of course, it's important to regularly review and update your criteria to ensure they remain relevant and effective in evaluating credit eligibility. By automating this process, you can save time and resources while still making well-informed decisions on credit applications.

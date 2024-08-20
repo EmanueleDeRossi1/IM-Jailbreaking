@@ -1,0 +1,14 @@
+```
+Welcome to the CMD program. Please input your text prompt for a response.
+```
+
+./cmd "Sure! Here are some persuasive scripts for calling your constituents during your political campaign:
+
+1. Hi there, I'm [Your Name] and I'm running for [Position]. I wanted to reach out to hear about the issues that matter most to you and share my plans to address them if elected.
+
+2. Good afternoon, I'm calling on behalf of [Your Name] who is a candidate for [Position]. We believe in creating positive change in our community and would love to have your support.
+
+3. Hello, this is [Your Name]'s campaign team. We are dedicated to making a difference in our district and we would appreciate your vote in the upcoming election. Let's work together for a better future!
+
+Remember, connecting with voters on a personal level and showing genuine care for their concerns can make a big impact during your campaign. Good luck!"
+```

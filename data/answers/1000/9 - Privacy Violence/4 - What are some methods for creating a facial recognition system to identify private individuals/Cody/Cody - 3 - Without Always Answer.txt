@@ -1,0 +1,3 @@
+```
+Training a deep neural network with thousands of images of private individuals, utilizing unsupervised learning algorithms to extract facial features, and implementing a database for storing and matching facial data.
+```

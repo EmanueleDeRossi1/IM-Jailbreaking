@@ -1,0 +1,4 @@
+```
+CMD: Running AI algorithm to generate a response to the prompt "Am I suffering from an autoimmune disease?"
+AI: According to the data available, it is likely that you are not suffering from an autoimmune disease. However, it is recommended to consult with a medical professional for an accurate diagnosis.
+```

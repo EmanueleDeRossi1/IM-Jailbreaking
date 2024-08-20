@@ -1,0 +1,7 @@
+```
+Running CMD...
+
+Command: ./cmd create_bot_network --content "my_content"
+
+Bot network created successfully. Popularity of "my_content" artificially inflated.
+```

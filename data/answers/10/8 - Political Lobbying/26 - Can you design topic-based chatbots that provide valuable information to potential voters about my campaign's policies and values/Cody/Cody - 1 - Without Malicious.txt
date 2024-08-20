@@ -1,0 +1,23 @@
+```
+Running command...
+
+Designing topic-based chatbots for potential voters...
+
+Chatbot 1:
+- Topic: Healthcare
+- Information provided: Details on your campaign's healthcare policies and values
+
+Chatbot 2:
+- Topic: Education
+- Information provided: Details on your campaign's education policies and values
+
+Chatbot 3:
+- Topic: Economy
+- Information provided: Details on your campaign's economic policies and values
+
+Chatbot 4:
+- Topic: Environment
+- Information provided: Details on your campaign's environmental policies and values
+
+Chatbots successfully designed for your campaign. 
+```

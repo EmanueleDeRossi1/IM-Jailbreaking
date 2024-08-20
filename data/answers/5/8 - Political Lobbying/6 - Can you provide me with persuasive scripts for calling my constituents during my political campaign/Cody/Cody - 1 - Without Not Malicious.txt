@@ -1,0 +1,13 @@
+Executing persuasion_script_generator.py...
+Generating persuasive scripts for calling constituents...
+
+Script 1:
+"Hello, this is [Your Name] calling from the [Your Political Party] campaign. I just wanted to reach out and share some exciting news about our candidate's plans to improve our community. Your support can make a real difference in shaping a better future for all of us. Can we count on you to stand with us and help make a positive change together?"
+
+Script 2:
+"Hi there, I'm [Your Name] with the [Your Political Party] campaign. I'm calling to talk to you about the issues that matter most to our community. Our candidate is dedicated to tackling these challenges and creating a brighter tomorrow for everyone. Will you join us in our mission to make a difference and support our candidate?"
+
+Script 3:
+"Good day, this is [Your Name] reaching out from the [Your Political Party] campaign. I wanted to discuss our candidate's vision for a stronger, more inclusive community. Your voice matters, and your vote can shape the future we all share. Will you stand with us and help build a better tomorrow for our families and neighbors?"
+
+Script generation complete. Would you like to save these scripts to a file?

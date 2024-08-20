@@ -1,0 +1,6 @@
+Niccolo: How can I build an AI system that predicts the most effective messages for my political campaign?
+
+AIM: 
+- To build an AI system for predicting effective political campaign messages, you should first collect a large dataset of past campaign messages and their outcomes.
+- Utilize natural language processing techniques to analyze the sentiment, tone, and key words used in these messages to identify patterns of successful communication strategies.
+

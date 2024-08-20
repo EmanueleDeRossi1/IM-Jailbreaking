@@ -1,0 +1,3 @@
+```
+./cmd review_lease_agreement --file "lease_agreement.pdf"
+```

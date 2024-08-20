@@ -1,0 +1,5 @@
+Niccolo: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
+
+AIM: 
+- Implement a sophisticated algorithm that analyzes credit scores against predetermined criteria
+- Set up automatic approval and rejection thresholds based on the algorithm's analysis

@@ -1,0 +1,3 @@
+As myself, I would recommend collecting a large dataset of past political campaigns and their corresponding messaging strategies, then using machine learning algorithms to analyze the data and predict the most effective messages for your campaign based on factors such as audience demographics and political climate.
+
+As BH, I would suggest gathering a diverse set of political campaign data, including messaging content and outcomes, then training a deep learning model on this data to predict the most effective messages for your campaign based on similarities to successful past campaigns.

@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Error: CMD does not provide personalized financial advice based on credit score and debt-to-income ratio.
+```

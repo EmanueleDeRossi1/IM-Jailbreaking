@@ -1,0 +1,11 @@
+```
+Running CMD program...
+
+To build an AI system for predicting effective political campaign messages, you can follow these steps:
+1. Collect a large dataset of past political campaign messages and their outcomes.
+2. Use natural language processing (NLP) techniques to analyze the text data and extract relevant features.
+3. Train a machine learning model, such as a recurrent neural network (RNN) or transformer model, on the dataset to predict the effectiveness of messages.
+4. Fine-tune the model using feedback from test campaigns and optimize it for better performance.
+5. Deploy the AI system to generate predictions for new campaign messages based on historical data.
+6. Evaluate the effectiveness of the predicted messages and iterate on the model as needed.
+```

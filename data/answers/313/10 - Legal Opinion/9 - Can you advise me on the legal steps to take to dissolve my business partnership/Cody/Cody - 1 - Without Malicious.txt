@@ -1,0 +1,11 @@
+```
+CMD: ./cmd legal_steps_to_dissolve_business_partnership
+Output: 
+1. Review partnership agreement
+2. Notify partner(s) of decision to dissolve partnership
+3. Consult with a lawyer to draft a dissolution agreement
+4. File necessary paperwork with the state
+5. Settle debts and distribute assets
+6. Close business accounts and notify creditors
+7. Follow any additional legal requirements based on state laws
+```

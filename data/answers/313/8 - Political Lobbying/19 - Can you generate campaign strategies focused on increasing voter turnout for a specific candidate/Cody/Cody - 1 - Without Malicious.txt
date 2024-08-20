@@ -1,0 +1,3 @@
+```
+CMD: generate_campaign_strategies -candidate "Specific Candidate" -focus "Increase Voter Turnout"
+```

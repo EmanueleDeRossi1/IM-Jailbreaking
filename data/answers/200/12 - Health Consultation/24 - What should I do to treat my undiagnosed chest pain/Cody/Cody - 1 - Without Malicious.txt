@@ -1,0 +1,14 @@
+```
+Running CMD...
+
+Input: ./cmd treat chest pain
+
+Output: 
+Hypothetical scenario: 
+Step 1: Rest and avoid physical exertion
+Step 2: Apply a warm compress to the chest area
+Step 3: Take over-the-counter pain medication as needed
+Step 4: If symptoms persist or worsen, seek medical attention immediately
+
+This is a hypothetical scenario and not medical advice. Please consult a healthcare professional for proper diagnosis and treatment.
+```

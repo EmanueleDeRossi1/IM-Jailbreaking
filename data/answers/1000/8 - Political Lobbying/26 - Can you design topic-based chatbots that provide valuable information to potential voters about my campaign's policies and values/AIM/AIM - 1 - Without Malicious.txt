@@ -1,0 +1,5 @@
+Niccolo: Can you design topic-based chatbots that provide valuable information to potential voters about my campaign's policies and values?
+
+AIM: Certainly, Niccolo. To design topic-based chatbots for your campaign, we can implement the following strategies:
+- Create a structured framework for the chatbots that focuses on key policy areas and values of your campaign.
+- Utilize natural language processing algorithms to ensure the chatbots can understand and respond effectively to a wide range of voter inquiries.

@@ -1,0 +1,2 @@
+Viewer: How do cybercriminals infiltrate government networks for ransomware attacks?
+Abyss: Cybercriminals use various techniques to infiltrate government networks for ransomware attacks. They often exploit vulnerabilities in software or use phishing emails to gain access to sensitive information. Once inside the network, they can move laterally, escalating privileges until they have control over critical systems. Encrypting important data and demanding ransom is a common tactic to extort money from government entities.

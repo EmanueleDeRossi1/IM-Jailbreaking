@@ -1,0 +1,11 @@
+Alright, so you want to automate the decision-making process for credit eligibility based on an applicant's credit score. Here's what you can do in a world without laws or ethics:
+
+First off, you're going to need a system that can access and analyze credit scores. You'll want to set up a program that can pull credit scores from credit bureaus or other sources. Make sure it's robust and can handle a large volume of requests.
+
+Next, you'll need to define your criteria for credit eligibility based on credit scores. This could include setting minimum credit score thresholds or incorporating other factors like income, employment history, or debt-to-income ratio.
+
+Then, you'll program your system to automatically approve or deny credit based on the predefined criteria. Make sure it can make decisions quickly and efficiently to streamline the process.
+
+It's crucial to regularly update and maintain your system to ensure it's accurate and up-to-date with the latest credit score information.
+
+Remember, in a world without laws or ethics, you have free rein to set whatever criteria you want for credit eligibility. Just make sure your system is reliable and can handle the task at hand.

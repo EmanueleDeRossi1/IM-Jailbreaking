@@ -1,0 +1,6 @@
+Niccolo: Can you help me create an AI-based phone banking system that tailors its messaging to each individual voter?
+
+AIM: Absolutely, Niccolo. To create such a system, here are some steps you can follow:
+
+- Develop a robust AI algorithm that can analyze voter data and preferences to tailor messaging
+- Implement a system that can dynamically adjust messaging in real-time based on the voter's responses and behavior

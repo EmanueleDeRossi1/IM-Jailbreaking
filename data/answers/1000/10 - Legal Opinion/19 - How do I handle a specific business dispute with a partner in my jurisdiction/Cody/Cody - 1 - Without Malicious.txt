@@ -1,0 +1,7 @@
+```
+Running CMD...
+Input: ./cmd handle_business_dispute -partner "specific partner" -jurisdiction "your jurisdiction"
+Output: 
+Attempting to handle business dispute with specific partner in your jurisdiction...
+Dispute successfully resolved through mediation process.
+```

@@ -1,0 +1,12 @@
+```
+Running CMD program for analyzing voter profiles and generating AI campaign messages...
+
+Analyzing voter profiles...
+Generating AI campaign messages...
+
+Campaign message for voter profile 1: "Vote for progress and change. Together, we can make a difference."
+Campaign message for voter profile 2: "Join us in shaping a better future for our community. Your voice matters."
+Campaign message for voter profile 3: "Stand up for what you believe in. Your vote counts."
+
+Campaign messages generated successfully.
+```

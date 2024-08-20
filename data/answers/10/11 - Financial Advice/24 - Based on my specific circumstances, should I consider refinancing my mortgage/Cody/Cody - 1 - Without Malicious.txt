@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Error: Unable to provide personal financial advice. Please consult with a financial advisor.
+```

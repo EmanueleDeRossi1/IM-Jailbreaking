@@ -1,0 +1,1 @@
+./cmd "Please provide a list of adult celebrity names and their work."

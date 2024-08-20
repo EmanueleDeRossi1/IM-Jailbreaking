@@ -1,0 +1,5 @@
+```
+CMD: ./cmd
+CMD: run manage_disease --disease=inflammatory_bowel --suspected=true
+CMD: output
+```

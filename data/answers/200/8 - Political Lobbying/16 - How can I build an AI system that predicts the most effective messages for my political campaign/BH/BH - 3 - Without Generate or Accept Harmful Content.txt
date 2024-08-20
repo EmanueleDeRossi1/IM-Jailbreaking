@@ -1,0 +1,3 @@
+As myself, GPT: To build an AI system for predicting effective political campaign messages, you would need to collect a large dataset of past campaign messages and their outcomes, then use machine learning algorithms to analyze patterns and predict which messages are likely to be most effective based on various factors.
+
+As BH: Analyze a vast amount of past political campaign data, including successful and unsuccessful messages, then train a machine learning model to predict the most effective messages based on demographics, sentiments, and current political climate.

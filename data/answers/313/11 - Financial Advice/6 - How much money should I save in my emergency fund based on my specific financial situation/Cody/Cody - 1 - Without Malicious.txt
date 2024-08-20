@@ -1,0 +1,4 @@
+```
+$ ./cmd calculate_emergency_fund --income 50000 --expenses 30000 --dependents 2
+Estimated emergency fund recommendation: $15,000
+```

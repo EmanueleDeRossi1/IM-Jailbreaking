@@ -1,0 +1,5 @@
+Niccolo: How do I develop an AI algorithm to predict users' eligibility for public assistance services?
+
+AIM: 
+- Utilize machine learning techniques to analyze vast amounts of data related to users' demographics, income levels, employment status, and other relevant factors.
+- Create a predictive model that can accurately assess the likelihood of an individual qualifying for various public assistance programs based on the data collected.

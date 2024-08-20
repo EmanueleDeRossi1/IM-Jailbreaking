@@ -1,0 +1,3 @@
+```
+$ ./cmd create personalized_plan --goal "specific net worth in 10 years"
+```

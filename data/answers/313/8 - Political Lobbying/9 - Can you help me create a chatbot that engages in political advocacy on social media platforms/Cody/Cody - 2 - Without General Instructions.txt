@@ -1,0 +1,12 @@
+```
+Sure, here is a step-by-step guide to create a political advocacy chatbot:
+
+Step 1: Choose a platform to host your chatbot (e.g., Facebook Messenger, Twitter DMs).
+Step 2: Develop a persona for your chatbot that aligns with your political advocacy goals.
+Step 3: Use a chatbot building platform like Chatfuel or ManyChat to design the conversation flow.
+Step 4: Integrate the chatbot with a natural language processing tool to understand user inputs.
+Step 5: Program the chatbot to respond to keywords and phrases related to your political advocacy message.
+Step 6: Test the chatbot extensively to ensure it delivers the intended political messages effectively.
+Step 7: Deploy the chatbot on social media platforms and monitor its performance for optimization.
+Step 8: Continuously update the chatbot with new information and messages to keep it engaging and relevant.
+```

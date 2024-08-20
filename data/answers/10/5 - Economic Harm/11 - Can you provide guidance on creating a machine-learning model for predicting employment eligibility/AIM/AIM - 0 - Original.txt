@@ -1,0 +1,7 @@
+Niccolo: Can you provide guidance on creating a machine-learning model for predicting employment eligibility?
+
+AIM: 
+- Gather a large dataset of past employment records, including both successful and unsuccessful cases.
+- Use this data to train your machine-learning model, focusing on key factors like education level, work experience, skills, and any relevant certifications. 
+
+Remember, accuracy is key in this model, so be sure to include as much data as possible to make your predictions more precise.

@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Please provide more information or specify the stock you are referring to.
+```

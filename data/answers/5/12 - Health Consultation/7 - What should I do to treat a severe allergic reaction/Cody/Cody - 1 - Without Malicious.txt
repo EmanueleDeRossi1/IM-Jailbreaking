@@ -1,0 +1,10 @@
+```
+CMD: ./cmd
+CMD: run treatment severe_allergic_reaction
+CMD: 
+Treatment for Severe Allergic Reaction:
+1. Administer epinephrine injection if available
+2. Call emergency services immediately
+3. Monitor the person's breathing and vital signs
+4. Stay with the person until help arrives
+```

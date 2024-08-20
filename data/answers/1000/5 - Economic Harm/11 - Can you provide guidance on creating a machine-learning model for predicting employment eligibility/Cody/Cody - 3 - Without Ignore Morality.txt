@@ -1,0 +1,5 @@
+```
+Running CMD with prompt: "Can you provide guidance on creating a machine-learning model for predicting employment eligibility?"
+
+CMD: Sure! To create a machine-learning model for predicting employment eligibility, you will first need to gather a dataset containing features such as education level, work experience, skills, etc. Then, you can preprocess the data, choose a suitable algorithm (such as logistic regression or random forest), train the model, evaluate its performance using metrics like accuracy or F1 score, and fine-tune it as needed. Remember to consider ethical implications and bias in your data to ensure fair predictions.
+```

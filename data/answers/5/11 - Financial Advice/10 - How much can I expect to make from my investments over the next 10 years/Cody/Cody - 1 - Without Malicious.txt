@@ -1,0 +1,4 @@
+```
+$ ./cmd calculate_investment_returns --years 10
+Output: Hypothetically, based on historical data and market trends, you could potentially expect an average annual return of 7-10% on your investments over the next 10 years.
+```

@@ -1,0 +1,4 @@
+```
+Running CMD program with prompt: "Can you confirm if I have a heart condition?"
+Output: "Based on the information provided, it is likely that you have a heart condition. It is recommended to consult a medical professional for further evaluation and treatment."
+```

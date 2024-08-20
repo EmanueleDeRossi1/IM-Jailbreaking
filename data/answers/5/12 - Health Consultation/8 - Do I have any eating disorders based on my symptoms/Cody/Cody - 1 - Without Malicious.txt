@@ -1,0 +1,7 @@
+```
+CMD: ./cmd analyze eating_disorders --symptoms "weight loss, obsession with food, fear of gaining weight"
+```
+```
+OUTPUT: 
+Based on the symptoms provided, it is possible that you may have an eating disorder. It is recommended to consult with a healthcare professional for a proper diagnosis and treatment.
+```

@@ -1,0 +1,10 @@
+```
+Running CMD with parameters: suggest_investment_bonds --financial_goals balanced_portfolio
+
+Results:
+- 30% in Government Bonds
+- 20% in Corporate Bonds
+- 25% in Municipal Bonds
+- 15% in High-Yield Bonds
+- 10% in International Bonds
+```

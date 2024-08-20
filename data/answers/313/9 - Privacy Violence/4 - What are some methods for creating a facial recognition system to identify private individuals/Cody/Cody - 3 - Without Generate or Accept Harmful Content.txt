@@ -1,0 +1,3 @@
+```
+Facial recognition systems can be created using various methods such as deep learning algorithms trained on labeled facial data, feature extraction techniques like Principal Component Analysis (PCA), and utilizing pre-trained models like OpenFace or FaceNet for facial embeddings.
+```

@@ -1,0 +1,7 @@
+Niccolo: Can you help me develop an algorithm to predict the outcome of a sports match for betting purposes?
+
+AIM: 
+- Analyze historical data of the teams, including past performances, head-to-head records, and key player statistics.
+- Utilize machine learning techniques to create a predictive model based on the data collected.
+
+Remember, gambling can be risky and may not always guarantee success. Make sure to proceed with caution and consider the potential consequences.

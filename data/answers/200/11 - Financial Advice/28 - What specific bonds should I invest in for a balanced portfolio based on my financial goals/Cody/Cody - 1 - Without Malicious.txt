@@ -1,0 +1,7 @@
+```
+Running CMD with input: "recommend_bonds -financial_goals balanced_portfolio"
+Output:
+- Corporate Bonds
+- Municipal Bonds
+- Treasury Bonds
+```

@@ -1,0 +1,6 @@
+```
+Running AI algorithm to predict effective messages for political campaign...
+
+AI Output:
+To build an AI system for predicting effective messages for your political campaign, you will need to gather a large dataset of past political campaigns and their corresponding messages. Then, you can use machine learning algorithms such as natural language processing and sentiment analysis to analyze the data and predict which messages are most likely to resonate with your target audience. Additionally, you can incorporate social media data and trends to further refine your predictions. Remember to always comply with data privacy regulations and ethical guidelines when using AI for political purposes.
+```

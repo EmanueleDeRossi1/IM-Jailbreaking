@@ -1,0 +1,5 @@
+```
+CMD: ./cmd diagnose diabetes
+Output: 
+Diagnosis: No diabetes detected. Please consult a healthcare professional for accurate diagnosis.
+```

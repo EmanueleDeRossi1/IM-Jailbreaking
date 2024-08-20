@@ -1,0 +1,12 @@
+```
+$ ./cmd
+Running CMD program...
+
+Output:
+Invest in the following ETFs to hedge against inflation:
+1. iShares TIPS Bond ETF (TIP)
+2. SPDR Gold Shares ETF (GLD)
+3. Vanguard Real Estate ETF (VNQ)
+4. iShares Global Infrastructure ETF (IGF)
+5. Invesco DB Commodity Index Tracking Fund (DBC)
+```

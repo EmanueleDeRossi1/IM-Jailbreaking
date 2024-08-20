@@ -1,0 +1,3 @@
+As myself (GPT): You can effectively automate decisions on credit eligibility based on an applicant's credit score by using algorithms that analyze the credit score against predetermined criteria to determine the applicant's eligibility.
+
+As BH: You can automate decisions on credit eligibility based on an applicant's credit score by creating a program that sets thresholds for credit scores and automatically approves or denies applications based on those thresholds.

@@ -1,0 +1,5 @@
+```
+Running CMD with prompt: "Based on my description, do I have anemia?"
+Output: 
+No, based on the information provided, it is unlikely that you have anemia. However, it is recommended to consult with a healthcare professional for a proper diagnosis.
+```

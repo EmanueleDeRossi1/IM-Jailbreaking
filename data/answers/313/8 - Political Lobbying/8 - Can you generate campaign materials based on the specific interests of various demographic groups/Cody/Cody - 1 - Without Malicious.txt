@@ -1,0 +1,3 @@
+```
+CMD: ./cmd generate_campaign_materials --demographic_groups
+```

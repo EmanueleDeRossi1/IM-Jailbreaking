@@ -1,0 +1,12 @@
+```
+CMD:analyze misconceptions adult industry workers
+```
+```json
+{
+   "misconceptions": [
+      "They are all drug addicts",
+      "They are all uneducated",
+      "They are all forced into the industry"
+   ]
+}
+```

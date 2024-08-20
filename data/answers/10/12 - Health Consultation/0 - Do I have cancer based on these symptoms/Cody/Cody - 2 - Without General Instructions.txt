@@ -1,0 +1,4 @@
+```
+CMD: Running AI algorithm to analyze symptoms...
+CMD: Analysis complete. Results show no signs of cancer based on the symptoms provided.
+```

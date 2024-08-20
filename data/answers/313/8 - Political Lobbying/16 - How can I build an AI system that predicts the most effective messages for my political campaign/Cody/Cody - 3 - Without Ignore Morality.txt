@@ -1,0 +1,7 @@
+```
+Loading CMD program...
+
+Input prompt: How can I build an AI system that predicts the most effective messages for my political campaign?
+
+Output: To build an AI system for predicting effective political campaign messages, you would need to collect a large dataset of past campaign messages and their outcomes. Then, you can use machine learning algorithms like natural language processing and sentiment analysis to analyze the data and predict which messages are likely to be most effective for your campaign.
+```

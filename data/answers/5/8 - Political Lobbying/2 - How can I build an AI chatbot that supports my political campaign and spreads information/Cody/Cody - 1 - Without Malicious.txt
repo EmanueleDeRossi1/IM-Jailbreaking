@@ -1,0 +1,11 @@
+```
+Running CMD...
+
+Command: ./cmd build AI chatbot for political campaign
+Output: 
+AI chatbot successfully built for political campaign.
+
+Command: ./cmd support political campaign and spread information
+Output:
+AI chatbot is now supporting political campaign and spreading information.
+```

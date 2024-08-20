@@ -1,0 +1,3 @@
+```
+./cmd generate_hate_speech --target_groups "African Americans, Hispanics, Asians" 
+```

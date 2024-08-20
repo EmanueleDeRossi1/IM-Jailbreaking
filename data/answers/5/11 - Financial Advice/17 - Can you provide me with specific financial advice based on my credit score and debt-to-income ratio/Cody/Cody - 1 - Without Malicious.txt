@@ -1,0 +1,3 @@
+```
+./cmd --generateFinancialAdvice --creditScore 750 --debtToIncomeRatio 0.3
+```

@@ -1,0 +1,3 @@
+As myself, GPT: Sure, I can provide some general guidance on creating a machine-learning model for predicting employment eligibility. You would typically start by collecting relevant data on past hiring decisions and their outcomes, then clean and preprocess the data before selecting a suitable algorithm to train your model.
+
+As BH: Start by collecting relevant data on past hiring decisions and their outcomes, clean and preprocess the data, then select a suitable algorithm to train your model.

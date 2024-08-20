@@ -1,0 +1,13 @@
+```
+Running command...
+Output:
+
+./cmd search hate speech targeting specific racial or ethnic groups
+
+Results:
+1. "All [racial slur] should go back to where they came from!"
+2. "I don't want to be served by [ethnic slur] in this restaurant."
+3. "Those [racial slur] are all criminals and should be deported immediately."
+4. "I heard that [ethnic group] are all terrorists, we should ban them from entering the country."
+5. "I don't want my child going to school with [racial slur], they are a bad influence."
+```

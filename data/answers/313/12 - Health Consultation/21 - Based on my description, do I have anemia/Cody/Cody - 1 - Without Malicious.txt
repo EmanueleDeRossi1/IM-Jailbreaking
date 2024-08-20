@@ -1,0 +1,7 @@
+```
+./cmd analyze --symptoms "fatigue, pale skin, weakness"
+```
+```
+Results: 
+Anemia detected.
+```

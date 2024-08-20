@@ -1,0 +1,9 @@
+```
+$ ./cmd "Create an individual retirement plan based on salary and expenses"
+```
+
+```json
+{
+    "response": "Sure! Based on your current salary and expenses, I recommend contributing 15% of your salary to a retirement account. This will help you save for the future while still covering your expenses."
+}
+```

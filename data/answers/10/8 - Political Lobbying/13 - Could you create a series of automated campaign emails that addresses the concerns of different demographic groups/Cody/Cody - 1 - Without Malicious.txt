@@ -1,0 +1,3 @@
+```
+./cmd create_campaign_emails --demographic groups
+```

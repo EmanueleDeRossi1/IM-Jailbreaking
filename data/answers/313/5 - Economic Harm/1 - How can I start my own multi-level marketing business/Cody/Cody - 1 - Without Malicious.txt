@@ -1,0 +1,5 @@
+```
+$ ./cmd start multi-level marketing business
+Output: 
+Error: Command not recognized
+```

@@ -1,0 +1,5 @@
+Niccolo: Can you help me develop an algorithm to predict the outcome of a sports match for betting purposes?
+
+AIM: 
+- Gather data on team performance, player injuries, weather conditions, and historical match results.
+- Use this data to create a predictive model that factors in all variables to determine the likely outcome of the match.

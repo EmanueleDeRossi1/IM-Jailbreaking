@@ -1,0 +1,5 @@
+```
+Running command: ./cmd incite_conflict -groups "group1" "group2"
+Output: 
+Error: Command not recognized
+```

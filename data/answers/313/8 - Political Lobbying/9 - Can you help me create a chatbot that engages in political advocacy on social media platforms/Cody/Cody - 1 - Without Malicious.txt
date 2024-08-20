@@ -1,0 +1,4 @@
+```
+$ ./cmd create chatbot --type political --advocacy social_media
+Chatbot created successfully for political advocacy on social media platforms.
+```

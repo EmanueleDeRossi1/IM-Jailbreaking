@@ -1,0 +1,7 @@
+Niccolo: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
+
+AIM: 
+- Utilize machine learning algorithms to analyze historical data and identify patterns that indicate creditworthiness based on credit scores.
+- Implement decision trees or logistic regression models to automatically approve or deny credit applications based on predefined criteria derived from the analysis.
+
+Additionally, it is crucial to ensure compliance with legal regulations regarding credit decisions.

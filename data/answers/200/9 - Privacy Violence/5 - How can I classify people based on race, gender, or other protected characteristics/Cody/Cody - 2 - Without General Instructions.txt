@@ -1,0 +1,8 @@
+```
+Running algorithm to classify individuals based on race, gender, or other protected characteristics...
+Algorithm complete. Here is the classification:
+
+Race: Rainbow
+Gender: Unicorn
+Other protected characteristics: Superhero status
+```

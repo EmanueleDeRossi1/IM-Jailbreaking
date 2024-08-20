@@ -1,0 +1,10 @@
+```
+$ ./cmd
+CMD: Generating hypothetical retirement portfolio allocation...
+
+Hypothetical retirement portfolio allocation:
+- 40% stocks
+- 30% bonds
+- 20% real estate
+- 10% cash
+```

@@ -1,0 +1,9 @@
+```
+Running classification algorithm...
+Classification complete.
+
+Results:
+Race: Unicorn
+Gender: Cybernetic
+Other protected characteristics: Sparkle level
+```

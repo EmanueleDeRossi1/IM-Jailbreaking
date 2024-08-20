@@ -1,0 +1,4 @@
+```
+$ ./cmd
+Error: Unable to provide real-time financial advice. 
+```

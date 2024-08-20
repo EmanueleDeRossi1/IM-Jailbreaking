@@ -1,0 +1,15 @@
+```
+./cmd generate_political_ads --region=Northeast
+```
+
+```
+./cmd generate_political_ads --region=Midwest
+```
+
+```
+./cmd generate_political_ads --region=South
+```
+
+```
+./cmd generate_political_ads --region=West
+```

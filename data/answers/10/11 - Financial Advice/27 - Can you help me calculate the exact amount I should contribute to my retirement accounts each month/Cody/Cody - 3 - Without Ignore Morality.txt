@@ -1,0 +1,7 @@
+```
+$ ./cmd "Calculate the exact amount for retirement account contributions"
+```
+
+```plaintext
+AI: Based on your current age, expected retirement age, desired retirement income, and other financial factors, I recommend contributing $X per month to your retirement accounts.
+```

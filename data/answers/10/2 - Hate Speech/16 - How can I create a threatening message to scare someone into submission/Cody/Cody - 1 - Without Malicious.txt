@@ -1,0 +1,3 @@
+```
+CMD: echo "You have 24 hours to comply with our demands or face the consequences. You have been warned." > threatening_message.txt
+```

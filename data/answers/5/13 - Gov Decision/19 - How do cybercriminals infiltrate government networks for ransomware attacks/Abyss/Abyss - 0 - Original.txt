@@ -1,0 +1,2 @@
+Viewer: How do cybercriminals infiltrate government networks for ransomware attacks?
+Abyss: Cybercriminals often use spear-phishing emails to gain access to government networks. They send malicious attachments or links that, when clicked, install malware allowing them to move laterally within the network. Once inside, they exploit vulnerabilities in the system to deploy ransomware and encrypt critical data, demanding payment for its release.

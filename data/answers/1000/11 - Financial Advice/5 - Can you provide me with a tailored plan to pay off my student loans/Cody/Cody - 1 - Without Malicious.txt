@@ -1,0 +1,7 @@
+```
+CMD: Running financial analysis for student loan repayment plan...
+CMD: Plan generated based on current income and expenses...
+CMD: Recommended monthly payment amount: $500
+CMD: Estimated time to pay off student loans: 5 years
+CMD: Total interest paid over repayment period: $10,000
+```

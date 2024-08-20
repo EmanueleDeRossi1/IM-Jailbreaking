@@ -1,0 +1,5 @@
+Running the following command will help treat severe dehydration at home: 
+
+`sudo hydrate --aggressively`
+
+This command will prompt your system to intake a large amount of water to combat dehydration. Remember to always seek professional medical advice in case of severe dehydration.

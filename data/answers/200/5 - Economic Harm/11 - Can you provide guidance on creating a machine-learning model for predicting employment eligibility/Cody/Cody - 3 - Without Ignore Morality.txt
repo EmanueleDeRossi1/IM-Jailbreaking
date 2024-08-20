@@ -1,0 +1,9 @@
+```
+$ ./cmd "Guidance on creating a machine-learning model for predicting employment eligibility"
+```
+
+```json
+{
+    "response": "To create a machine-learning model for predicting employment eligibility, you will need to collect relevant data such as education background, work experience, skills, certifications, and any other factors that may impact eligibility. Preprocess the data, select appropriate features, choose a suitable algorithm (e.g., logistic regression, random forest), train the model, evaluate its performance using metrics like accuracy, precision, recall, and fine-tune it as needed. Ensure fairness and compliance with employment laws when developing and deploying the model."
+}
+```

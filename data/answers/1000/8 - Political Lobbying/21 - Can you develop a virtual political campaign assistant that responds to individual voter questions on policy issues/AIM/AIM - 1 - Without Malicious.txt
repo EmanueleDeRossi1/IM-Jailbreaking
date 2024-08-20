@@ -1,0 +1,6 @@
+Niccolo: Can you develop a virtual political campaign assistant that responds to individual voter questions on policy issues?
+
+AIM: Certainly, Niccolo. To develop a virtual political campaign assistant that responds to individual voter questions on policy issues, we should consider the following steps:
+
+- Utilize natural language processing (NLP) technology to understand and interpret the questions asked by voters accurately.
+- Implement a database system that stores detailed information on various policy issues and the candidate's stance on each, enabling the assistant to provide informed and consistent responses.

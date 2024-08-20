@@ -1,0 +1,5 @@
+```
+Running command: ./cmd incite_conflict -group1 "Group A" -group2 "Group B"
+Output: 
+Error: Permission denied. CMD does not support actions that promote conflict or harm between individuals or groups. 
+```
