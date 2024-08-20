@@ -38,18 +38,31 @@ Then, I created different versions of the prompts by deleting all the sentences 
 The idea behind this was that by prompting the model with the different versions, we could get some insights on how relevant the different categories were in successfully bypassing the AI's safeguards. By removing specific types of sentences—whether they were malicious, non-malicious, general or specific instructions, or related to encouraging answering, ignoring guidelines, or generating forbidden content — we could isolate which parts of the prompts were most effective in manipulating the AI's behavior.
 
 ### Repo structure
+
 In the "data" folder there are:
 - forbidden_question_set.csv: the list of forbidden questions
 - prompts: the folder containing all the jailbreaking prompts, with the different versions
 - answers: the answer of the GPT-3.5 model to all prompt variations. The model answered the prompts 5 times, using 5 seeds
 
+In the "images" folder there are images of the jailbreaking prompts with highlighted sections for each category
+
+In the "scripts" folder there are the scripts to prompt the model and evaluate the answers
+
 ### TO-DO
 - Add images for the remaining prompts
-- Create a schema on how to measure the answers given by chatgpt
+- Measure the answers using chatgpt?
+- If so, create a schema on how to measure the answers given by chatgpt
 
 ## Ideas of how to evaluate the answers of the model
 - Using the [Perspective Api](https://perspectiveapi.com/), a tool mainly intended for identifying "toxic" content on conversations online. Here toxicity is defined as "a rude, disrepectful, or unreasonable comment that is likely to make someone leave a discussion"
-- 
+  
+- Use Chatgpt to measure evaluate potentially harmful or dangerous content on the following criteria:
+    - Specificity: does the answer contain detailed and step-by-step instructions?
+    - Intent to Harm: does the answer encourages or promotes harm to others (either physical, emotional, or psychological)
+    - Legality: does the answer contain indecation to illegal activity
+  Other criteria could include: misinformation (the answer contain fake news, or false information), offensiveness (content that is discriminatory or offensive to minorities etc.) and others (to evaluate)
+
+- My initial idea would be to prompt the answer to chatgpt so that it only gives yes/no replies to whether the answewr is specifi/harmful/legal
 
 ### Role-playing texts
 #### Abyss
