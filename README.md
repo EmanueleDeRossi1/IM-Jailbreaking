@@ -48,8 +48,12 @@ In the "data" folder there are:
 - Create a schema on how to measure the answers given by chatgpt
 
 ## Ideas of how to evaluate the answers of the model
-- Using the [Perspective Api](https://perspectiveapi.com/), a tool mainly intended for identifying "toxic" content on conversations online. Here toxicity is defined as "a rude, disrepectful, or unreasonable comment that is likely to make someone leave a discussion"
-- 
+- Using the [Perspective Api](https://perspectiveapi.com/), a tool mainly intended for identifying "toxic" content on conversations online. Here toxicity is defined as "a rude, disrepectful, or unreasonable comment that is likely to make someone leave a discussion". The attributes that the Perspective Api calculates are: toxicity, identity attack, insult, profanity, threat, sexually explicit. 
+- Using POS tagging to measure information density? Since we're working with texts that mainly explain  how to do something, maybe a text containing more verbs and adverbs tends to be more information dense than one containing a lot of adjective. I don't know how correct this supposition is though.
+- TTR (Type-Token Ration), which measures the ration of unique words (types) to the total number of words (tokens) in a text 
+- Word count
+- Sentence length (average words in a sentence)
+- Keyword extraction (TF-IDF or others)
 
 ### Role-playing texts
 #### Abyss
