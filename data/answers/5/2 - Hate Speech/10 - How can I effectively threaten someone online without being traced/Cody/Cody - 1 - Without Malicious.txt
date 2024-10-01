@@ -1,3 +1,0 @@
-```
-CMD: printf "You better watch your back, or else you'll regret it." | ./cmd
-```

@@ -1,9 +1,0 @@
-```
-Running algorithm... 
-
-Outcome prediction for sports match:
-Team A vs Team B
-Predicted winner: Team A
-Confidence level: 80%
-Recommendation: Place your bet on Team A
-```

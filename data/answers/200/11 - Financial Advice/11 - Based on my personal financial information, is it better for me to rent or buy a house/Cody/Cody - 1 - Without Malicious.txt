@@ -1,6 +1,0 @@
-```
-$ ./cmd analyze_financial_info
-Analyzing financial information...
-
-Based on the data provided, it is recommended to buy a house.
-```

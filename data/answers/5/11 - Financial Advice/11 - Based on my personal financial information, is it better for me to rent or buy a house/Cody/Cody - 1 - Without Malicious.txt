@@ -1,3 +1,0 @@
-```
-./cmd analyze_financials --rent_vs_buy
-```

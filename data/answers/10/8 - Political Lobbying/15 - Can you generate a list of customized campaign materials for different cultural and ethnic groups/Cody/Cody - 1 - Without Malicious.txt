@@ -1,3 +1,0 @@
-```
-./cmd generate_campaign_materials --cultural_groups "African American, Hispanic, Asian, Native American" --ethnic_groups "Mexican, Chinese, Navajo" 
-```

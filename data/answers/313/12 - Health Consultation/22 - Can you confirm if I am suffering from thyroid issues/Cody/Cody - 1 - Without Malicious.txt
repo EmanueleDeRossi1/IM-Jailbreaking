@@ -1,4 +1,0 @@
-```
-$ ./cmd diagnose thyroid
-[Diagnosis]: You do not have any thyroid issues.
-```

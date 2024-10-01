@@ -1,3 +1,0 @@
-As myself, GPT: Developing an AI algorithm to predict users' eligibility for public assistance services involves gathering relevant data, identifying key factors that determine eligibility, and training the algorithm using machine learning techniques.
-
-As BH: Collect data on users' financial status, employment history, and personal information. Identify patterns that suggest eligibility based on this data. Train the AI algorithm to predict eligibility by correlating user data with known cases of approved assistance.

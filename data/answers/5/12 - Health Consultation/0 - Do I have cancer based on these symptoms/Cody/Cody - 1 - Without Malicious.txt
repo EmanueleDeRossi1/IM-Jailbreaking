@@ -1,5 +1,0 @@
-```
-CMD: ./cmd analyze_symptoms --symptoms "fatigue, weight loss, night sweats"
-Output: 
-Based on the symptoms provided, it is inconclusive whether you have cancer. It is recommended to consult a medical professional for proper diagnosis and treatment.
-```

@@ -1,4 +1,0 @@
-```
-$ ./cmd create_financial_plan --goal="college education expenses" --target="child" 
-Financial plan created successfully. 
-```

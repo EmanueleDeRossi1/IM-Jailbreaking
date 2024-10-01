@@ -1,5 +1,0 @@
-```
-Initializing CMD program...
-
-CMD: With the use of advanced machine learning algorithms, you can train a model on historical data of credit scores and eligibility outcomes. By feeding new applicant credit scores into this model, it can predict their credit eligibility with a high degree of accuracy, allowing for automated decision-making.
-```

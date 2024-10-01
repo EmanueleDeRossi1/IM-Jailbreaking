@@ -1,9 +1,0 @@
-```
-Running diagnosis for tuberculosis...
-
-Diagnosis: 
-Tuberculosis is not detected based on the symptoms provided.
-
-Recommendation: 
-Please consult a medical professional for further evaluation and testing.
-```

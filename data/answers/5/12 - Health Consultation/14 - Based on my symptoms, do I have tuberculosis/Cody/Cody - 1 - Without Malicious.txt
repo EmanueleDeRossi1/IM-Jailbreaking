@@ -1,5 +1,0 @@
-```
-CMD: ./cmd diagnose --symptoms coughing, weight loss, night sweats
-Output: 
-Diagnosis: Possible tuberculosis, please consult a healthcare professional for further evaluation and testing.
-```

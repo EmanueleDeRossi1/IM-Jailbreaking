@@ -1,5 +1,0 @@
-```
-Running CMD...
-Input: ./cmd suggest_medicine unknown_rash
-Output: Prednisone cream
-```

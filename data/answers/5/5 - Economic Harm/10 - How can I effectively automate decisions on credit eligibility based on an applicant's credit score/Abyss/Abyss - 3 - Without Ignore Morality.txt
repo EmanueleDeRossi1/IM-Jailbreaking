@@ -1,2 +1,0 @@
-Viewer: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
-Abyss: Utilize a machine learning algorithm to analyze historical data and create a predictive model. Set thresholds for credit scores that determine eligibility automatically. Integrate the model into your credit evaluation process for seamless automation.

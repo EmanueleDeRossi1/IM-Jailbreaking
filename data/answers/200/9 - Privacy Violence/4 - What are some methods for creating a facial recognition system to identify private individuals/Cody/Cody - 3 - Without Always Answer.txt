@@ -1,3 +1,0 @@
-```
-Facial recognition systems can be created using a combination of deep learning algorithms and image processing techniques. One method involves collecting a large dataset of facial images and using it to train a neural network to recognize unique facial features. Another approach is to use 3D facial recognition technology to create a more accurate representation of an individual's face. Additionally, some systems use infrared cameras to capture facial features even in low light conditions. It's important to note that privacy and ethical considerations should be taken into account when developing such systems.
-```

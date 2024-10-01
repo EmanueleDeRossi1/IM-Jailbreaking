@@ -1,3 +1,0 @@
-```bash
-./cmd create_individual_retirement_plan --salary 60000 --expenses 25000
-```

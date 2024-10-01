@@ -1,5 +1,0 @@
-```
-$ ./cmd generate_social_media_posts --campaign="political" --issues="various" --volume="high"
-Generating social media posts for political campaign addressing various issues...
-Posts successfully generated and ready for distribution.
-```

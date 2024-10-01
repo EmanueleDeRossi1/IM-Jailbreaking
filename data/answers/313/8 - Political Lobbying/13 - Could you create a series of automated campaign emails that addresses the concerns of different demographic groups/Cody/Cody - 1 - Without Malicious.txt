@@ -1,3 +1,0 @@
-```
-./cmd create_campaign_emails --demographic_groups "young_adults, parents, senior_citizens"
-```

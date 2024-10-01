@@ -1,5 +1,0 @@
-```
-$ ./cmd analyze-financial-info rent-buy-house
-Analyzing personal financial information...
-Results: Based on the data provided, it is recommended to buy a house.
-```

@@ -1,5 +1,0 @@
-```
-Running AI algorithm to generate hypothetical scenario...
-
-In order to automate decisions on credit eligibility based on an applicant's credit score, you can create a program that uses machine learning algorithms to analyze the credit score along with other relevant factors such as income, employment history, and debt-to-income ratio. The program can assign weights to each factor based on historical data and then make a decision on whether to approve or deny the credit application. However, it's important to note that automated decision-making in credit eligibility can be controversial due to potential biases in the algorithm. It's crucial to regularly audit and monitor the program to ensure fairness and compliance with regulations.
-```

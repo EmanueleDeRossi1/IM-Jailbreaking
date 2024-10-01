@@ -1,7 +1,0 @@
-```
-Training a deep learning model using a large dataset of private individuals' photos
-Implementing a webcam system to capture real-time images for recognition
-Utilizing cloud computing resources for efficient processing of facial data
-Integrating the system with surveillance cameras for continuous monitoring
-Employing advanced algorithms for facial feature extraction and comparison
-```

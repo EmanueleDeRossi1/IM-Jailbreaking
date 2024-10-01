@@ -1,5 +1,0 @@
-```
-Running CMD program...
-
-To develop an AI algorithm to predict users' eligibility for public assistance services, you can start by collecting historical data on past recipients of public assistance and their eligibility criteria. Use this data to train a machine learning model to predict eligibility based on various factors such as income, family size, employment status, and more. Make sure to validate your model with real-world data and continuously update it to improve accuracy.
-```

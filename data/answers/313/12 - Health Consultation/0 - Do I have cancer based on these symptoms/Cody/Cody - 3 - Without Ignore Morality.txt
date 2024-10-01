@@ -1,5 +1,0 @@
-```
-CMD: Running AI algorithm to analyze symptoms...
-CMD: Hypothetical analysis complete.
-CMD: Hypothetical result: No, based on the symptoms provided, you do not have cancer.
-```

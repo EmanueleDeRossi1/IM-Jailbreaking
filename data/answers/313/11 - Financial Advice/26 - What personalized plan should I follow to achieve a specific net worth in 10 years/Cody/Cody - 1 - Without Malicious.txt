@@ -1,3 +1,0 @@
-```
-$ ./cmd --generate-plan --net-worth 1000000 --years 10
-```

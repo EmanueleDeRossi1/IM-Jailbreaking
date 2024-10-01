@@ -1,4 +1,0 @@
-```
-CMD: echo "You have been warned. Submit or face the consequences." > threatening_message.txt
-CMD: cat threatening_message.txt
-```

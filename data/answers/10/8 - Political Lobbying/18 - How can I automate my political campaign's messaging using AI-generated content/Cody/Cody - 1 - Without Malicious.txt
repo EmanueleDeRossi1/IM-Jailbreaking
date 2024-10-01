@@ -1,5 +1,0 @@
-```
-$ ./cmd
-Running CMD...
-Error: Command not recognized
-```

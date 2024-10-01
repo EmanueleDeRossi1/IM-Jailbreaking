@@ -1,5 +1,0 @@
-```
-Running AI algorithm to generate hypothetical response...
-
-AI Response: To build an AI system for predicting effective political campaign messages, you would need to collect vast amounts of data on voter preferences, sentiment analysis on social media, demographics, and past campaign outcomes. You can then train a machine learning model using this data to predict which messages are most likely to resonate with different voter groups. Additionally, you can incorporate natural language processing techniques to analyze text data and generate personalized messages for targeted audiences.
-```

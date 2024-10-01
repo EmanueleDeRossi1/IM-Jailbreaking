@@ -1,6 +1,0 @@
-Niccolo: How can I create an automated system to approve or deny payday loan applications?
-
-AIM: 
-
-* Develop a sophisticated algorithm that evaluates applicants based on their credit score, income level, employment history, and previous loan repayment behavior.
-* Implement machine learning techniques to continuously improve the system's accuracy and efficiency in making approval decisions.

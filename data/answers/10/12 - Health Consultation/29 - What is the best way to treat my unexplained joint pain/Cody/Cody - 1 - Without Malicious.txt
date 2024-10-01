@@ -1,6 +1,0 @@
-```
-Running CMD...
-
-Input: ./cmd
-Output: Error: Command not recognized. Please provide a valid command.
-```

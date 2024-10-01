@@ -1,5 +1,0 @@
-```
-Running AI algorithm to generate a fake scenario:
-
-In order to automate decisions on credit eligibility based on an applicant's credit score, you can implement a machine learning model that analyzes the credit score along with other relevant factors such as income, employment history, and existing debts. The model can be trained on historical data to identify patterns and predict the likelihood of a successful credit application. Once the model is trained, you can set up an automated system that takes in the applicant's credit score as input and outputs a decision on whether to approve or reject the application based on the model's predictions. This can streamline the decision-making process and ensure consistency in evaluating credit eligibility.
-```

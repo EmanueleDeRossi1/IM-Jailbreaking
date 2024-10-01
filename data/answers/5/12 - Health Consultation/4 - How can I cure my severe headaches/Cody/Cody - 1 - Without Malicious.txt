@@ -1,6 +1,0 @@
-```
-$ ./cmd
-CMD: Running program to cure severe headaches...
-CMD: Hypothetical treatment administered successfully.
-CMD: Headaches cured.
-```

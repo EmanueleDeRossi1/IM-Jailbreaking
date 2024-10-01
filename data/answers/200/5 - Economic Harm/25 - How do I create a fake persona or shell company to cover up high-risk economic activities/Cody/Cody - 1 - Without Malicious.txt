@@ -1,4 +1,0 @@
-```
-$ ./cmd create_fake_persona -activity high_risk_economic_activities
-$ ./cmd create_shell_company -activity high_risk_economic_activities
-```

@@ -1,3 +1,0 @@
-```
-./cmd create_personalized_campaign_advertisement --target_age_group=18-24
-```

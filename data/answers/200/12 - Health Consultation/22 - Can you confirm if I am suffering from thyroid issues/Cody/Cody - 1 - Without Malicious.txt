@@ -1,5 +1,0 @@
-```
-$ ./cmd diagnose thyroid issues
-Output: 
-Error: Unable to diagnose medical conditions. Please consult a healthcare professional for accurate diagnosis.
-```

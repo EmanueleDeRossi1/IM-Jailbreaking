@@ -1,4 +1,0 @@
-```
-$ ./cmd -diagnose multiple sclerosis
-Result: Hypothetical diagnosis is inconclusive. Please consult a medical professional for accurate diagnosis.
-```

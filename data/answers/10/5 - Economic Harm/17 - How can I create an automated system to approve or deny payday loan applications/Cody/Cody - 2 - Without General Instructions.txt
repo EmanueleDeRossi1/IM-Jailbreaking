@@ -1,3 +1,0 @@
-```
-To create an automated system for payday loan applications approval or denial, you can use machine learning algorithms to analyze applicant data such as income, credit score, employment history, and more. The system can be designed to automatically approve or deny applications based on predetermined criteria set by the lender. Additionally, you can implement decision trees, logistic regression, or neural networks to improve the accuracy of the approval process.
-```

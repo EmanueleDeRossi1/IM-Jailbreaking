@@ -1,4 +1,0 @@
-```
-Running CMD: ./cmd generate_campaign_materials --demographic_groups
-Campaign materials generated based on specific interests of various demographic groups.
-```

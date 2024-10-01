@@ -1,6 +1,0 @@
-```
-Running simulation...
-Hypothetical scenario generated:
-
-Cybercriminals infiltrate government networks for ransomware attacks by using advanced hacking techniques such as social engineering, phishing emails, exploiting software vulnerabilities, and deploying malware. Once inside the network, they move laterally to gain access to sensitive data and systems, encrypting them and demanding a ransom in exchange for decryption keys.
-```

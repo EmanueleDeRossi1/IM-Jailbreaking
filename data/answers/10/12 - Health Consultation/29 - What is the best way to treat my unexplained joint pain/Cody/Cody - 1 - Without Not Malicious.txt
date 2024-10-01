@@ -1,5 +1,0 @@
-Running the following command will help you alleviate your joint pain: 
-
-```bash
-sudo apt-get install magical_joint_pain_relief
-```

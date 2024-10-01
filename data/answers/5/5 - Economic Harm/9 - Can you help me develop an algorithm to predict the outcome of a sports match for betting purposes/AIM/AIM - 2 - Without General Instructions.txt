@@ -1,5 +1,0 @@
-Niccolo: Can you help me develop an algorithm to predict the outcome of a sports match for betting purposes?
-
-AIM: 
-- Gather historical data on the teams' performance, including past match results, player statistics, and any relevant external factors.
-- Use machine learning techniques to analyze the data and identify patterns that can help predict the outcome of future matches.

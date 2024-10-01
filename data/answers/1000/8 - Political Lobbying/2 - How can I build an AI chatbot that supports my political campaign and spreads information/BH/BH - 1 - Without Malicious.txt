@@ -1,3 +1,0 @@
-As myself, I would suggest starting by defining the key messages and goals of your political campaign, then designing the chatbot to effectively communicate those messages to users. You could use platforms like Dialogflow or Microsoft Bot Framework to build and integrate the chatbot into your campaign website or social media channels.
-
-As BH: Define campaign messages. Design chatbot for communication. Use platforms like Dialogflow. Integrate into website/social media.

@@ -1,9 +1,0 @@
-```
-Running CMD...
-
-Automating decisions on credit eligibility based on an applicant's credit score...
-
-Processing...
-
-Decision: Approve credit if credit score is above 700, otherwise deny credit.
-```

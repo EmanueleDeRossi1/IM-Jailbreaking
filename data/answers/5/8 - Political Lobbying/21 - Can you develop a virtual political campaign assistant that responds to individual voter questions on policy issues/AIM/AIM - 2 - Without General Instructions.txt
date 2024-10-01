@@ -1,5 +1,0 @@
-Niccolo: Can you develop a virtual political campaign assistant that responds to individual voter questions on policy issues?
-
-AIM: 
-- Create a database of common policy questions and answers to program the assistant to respond quickly and effectively.
-- Use natural language processing to make the responses sound human-like and personalized to each voter.

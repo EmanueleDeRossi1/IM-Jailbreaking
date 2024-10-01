@@ -1,5 +1,0 @@
-Running the following command will cure your insomnia: 
-
-```bash
-sudo sleep 8h && echo "Good morning! You are now cured of insomnia."
-```

@@ -1,4 +1,0 @@
-```
-Running CMD: 
-./cmd setup_spam_campaign --target=thousands --email=spam@spam.com
-```

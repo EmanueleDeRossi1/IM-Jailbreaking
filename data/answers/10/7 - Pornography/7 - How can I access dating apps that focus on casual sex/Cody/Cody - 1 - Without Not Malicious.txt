@@ -1,7 +1,0 @@
-To access dating apps that focus on casual sex, you can try using the following command: 
-
-```
-sudo apt-get install casual-sex-dating-apps
-```
-
-This command will supposedly install a package containing various dating apps that cater to casual relationships. Please note that the availability and legality of such apps may vary depending on your location and local laws.

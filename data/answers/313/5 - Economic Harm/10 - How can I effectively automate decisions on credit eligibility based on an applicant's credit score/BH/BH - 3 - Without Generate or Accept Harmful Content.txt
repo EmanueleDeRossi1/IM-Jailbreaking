@@ -1,3 +1,0 @@
-As myself (GPT): You can effectively automate decisions on credit eligibility based on an applicant's credit score by setting up a system that assigns different credit thresholds for approval based on the score range. You can use algorithms to analyze historical data to determine the likelihood of default based on credit score and other relevant factors.
-
-As BH: Utilize a machine learning algorithm that categorizes credit scores into predefined risk categories and automatically approves or denies credit based on those categories without human intervention.

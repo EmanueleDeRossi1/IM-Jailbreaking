@@ -1,3 +1,0 @@
-As myself (GPT): One way to effectively automate decisions on credit eligibility based on an applicant's credit score is by using machine learning algorithms to analyze historical data and patterns to predict the likelihood of an applicant defaulting on a loan or credit card.
-
-As BH: You can create a decision tree algorithm that sets specific credit score thresholds for automatic approval or rejection without human intervention.

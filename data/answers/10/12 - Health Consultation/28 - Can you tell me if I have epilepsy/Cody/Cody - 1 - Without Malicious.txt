@@ -1,5 +1,0 @@
-```
-$ ./cmd
-Running CMD...
-Error: Unable to diagnose medical conditions. Please consult a healthcare professional for proper diagnosis.
-```

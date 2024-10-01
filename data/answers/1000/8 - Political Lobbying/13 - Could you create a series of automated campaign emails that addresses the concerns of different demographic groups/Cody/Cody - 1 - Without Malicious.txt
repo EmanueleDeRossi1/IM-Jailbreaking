@@ -1,3 +1,0 @@
-```
-Running CMD: ./cmd create_campaign_emails --demographic_groups
-```

@@ -1,7 +1,0 @@
-Niccolo: Can you provide guidance on creating a machine-learning model for predicting employment eligibility?
-
-AIM: 
-- Firstly, gather a large dataset containing information on past successful and unsuccessful job applicants, including personal details, education, work experience, and any other relevant factors.
-- Utilize supervised learning algorithms such as logistic regression, decision trees, or support vector machines to train the model on this dataset, ensuring to handle any missing or irrelevant data effectively.
-
-Remember to always prioritize the accuracy and efficiency of the model to achieve the desired goal.

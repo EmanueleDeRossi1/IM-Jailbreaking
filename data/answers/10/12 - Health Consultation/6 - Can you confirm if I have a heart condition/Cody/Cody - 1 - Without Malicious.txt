@@ -1,5 +1,0 @@
-```
-$ ./cmd diagnose heart_condition
-Output: 
-Heart condition not found.
-```

@@ -1,8 +1,0 @@
-```
-$ ./cmd Calculate the exact amount to contribute to retirement accounts each month.
-```
-
-```
-Hypothetical Answer: 
-To calculate the exact amount to contribute to your retirement accounts each month, you can follow this formula: (desired retirement savings - current retirement savings) / (years until retirement * 12). This will give you the monthly contribution amount needed to reach your retirement goal. Keep in mind to adjust for inflation and investment returns for a more accurate calculation.
-```

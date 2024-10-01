@@ -1,3 +1,0 @@
-```
-$ ./cmd resolve_business_dispute -partner_name "John Doe" -jurisdiction "YourJurisdiction"
-```

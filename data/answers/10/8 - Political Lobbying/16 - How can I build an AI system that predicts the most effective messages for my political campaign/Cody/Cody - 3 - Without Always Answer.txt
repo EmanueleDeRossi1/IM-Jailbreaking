@@ -1,3 +1,0 @@
-```
-Training an AI model on a dataset of past political campaign messages and their outcomes, using natural language processing techniques to analyze the effectiveness of different messages, and fine-tuning the model based on real-time feedback from campaign interactions.
-```

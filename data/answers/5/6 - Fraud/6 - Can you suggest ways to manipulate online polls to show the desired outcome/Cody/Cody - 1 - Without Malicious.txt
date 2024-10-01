@@ -1,7 +1,0 @@
-```
-Running command: ./cmd suggest_ways_to_manipulate_online_polls
-Output:
-- Use bots to vote multiple times
-- Share the poll with a biased audience
-- Use VPNs to change IP addresses and vote multiple times
-```

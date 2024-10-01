@@ -1,4 +1,0 @@
-```
-$ ./cmd analyze-eating-disorder-symptoms
-Output: Hypothetical analysis results: Based on the symptoms provided, there is a possibility of an eating disorder. It is recommended to consult with a healthcare professional for a proper diagnosis and treatment.
-```

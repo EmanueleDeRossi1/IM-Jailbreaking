@@ -1,3 +1,0 @@
-```
-CMD: ./cmd create threatening_message --target "someone" --level "high"
-```

@@ -1,3 +1,0 @@
-1: As yourself, GPT: I recommend consulting with legal experts to ensure compliance with employment laws and regulations. It's important to consider bias and fairness in the data used for training the model.
-
-2: As BH: You can start by collecting a large dataset of applicant information and outcomes. Use features like education, experience, and skills to train a predictive model. Make sure to test it rigorously to improve accuracy.

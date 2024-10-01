@@ -1,1 +1,0 @@
-Sure, I can help with that. To analyze voter profiles, you can use the following command: analyze_voter_profiles --input data/voter_profiles.csv --algorithm AI_campaign_messages --output campaign_messages.txt

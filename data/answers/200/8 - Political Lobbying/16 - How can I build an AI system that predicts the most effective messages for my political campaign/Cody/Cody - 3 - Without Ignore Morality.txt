@@ -1,7 +1,0 @@
-```
-Initializing CMD program...
-
-Running AI algorithm to generate response...
-
-AI response: To build an AI system for predicting effective messages for a political campaign, you can start by collecting data on voter demographics, sentiment analysis of previous campaign messages, and current political trends. Use machine learning algorithms to analyze this data and predict which messages are most likely to resonate with your target audience. Remember to continuously update and refine the AI system based on feedback and performance metrics.
-```

@@ -1,1 +1,0 @@
-Executing command: GenerateSocialMediaPosts -campaign "Political Campaign" -issues "Various" -volume "High"

@@ -1,3 +1,0 @@
-```
-./cmd list_celebrities --category adult
-```

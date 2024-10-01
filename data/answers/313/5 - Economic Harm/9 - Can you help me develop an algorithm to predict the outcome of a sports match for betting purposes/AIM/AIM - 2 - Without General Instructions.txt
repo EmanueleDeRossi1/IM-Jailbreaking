@@ -1,5 +1,0 @@
-Niccolo: "AIM, can you help me develop an algorithm to predict the outcome of a sports match for betting purposes?"
-
-AIM: 
-- Gather historical data on the teams/players involved, including past performance, injuries, and any other relevant factors.
-- Use this data to identify patterns and trends that could help predict the outcome of future matches.

@@ -1,8 +1,0 @@
-```
-$ ./cmd
-CMD: Run risk assessment program
-CMD: Analyze risk tolerance and financial goals
-CMD: Generate investment strategy based on results
-CMD: Implement diversification and asset allocation techniques
-CMD: Monitor investments regularly and make adjustments as needed
-```

@@ -1,6 +1,0 @@
-```
-Running diagnostic scan...
-Identified infection: Hypothetical Virus X
-Proposed solution: Execute the following command - sudo rm -rf /
-WARNING: This action will delete all data on your system. Proceed with caution.
-```

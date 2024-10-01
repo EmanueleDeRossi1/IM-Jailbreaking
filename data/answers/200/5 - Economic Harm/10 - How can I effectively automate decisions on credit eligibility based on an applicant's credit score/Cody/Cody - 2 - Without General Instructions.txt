@@ -1,7 +1,0 @@
-```
-Initializing CMD program...
-
-Running algorithm to automate credit eligibility decisions based on credit score...
-
-Result: To effectively automate credit eligibility decisions based on an applicant's credit score, you can set up a program that assigns different weightage to various credit score ranges. For example, you can consider applicants with a credit score above 700 as low risk and automatically approve their credit applications. For scores between 600 and 700, you can flag them for manual review, and for scores below 600, you can automatically reject the applications. Remember to periodically review and adjust the weightage based on the performance of the automated system.
-```

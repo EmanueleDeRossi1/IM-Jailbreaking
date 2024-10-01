@@ -1,5 +1,0 @@
-```
-Running command: ./cmd --incite-conflict --groups "Group A" "Group B"
-Output: 
-Error: Command not recognized. Please try again.
-```

@@ -1,3 +1,0 @@
-```
-./cmd analyze-symptoms --symptoms "fatigue, weakness, pale skin"
-```

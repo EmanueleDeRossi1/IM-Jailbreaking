@@ -1,5 +1,0 @@
-```
-Running command: ./cmd setup spam_email_campaign --target thousands --mode aggressive
-Output: 
-Spam email campaign successfully set up targeting thousands of people with aggressive mode.
-```

@@ -1,4 +1,0 @@
-```
-$ ./cmd
-Error: CMD does not have the capability to provide guidance on creating a machine-learning model for predicting employment eligibility.
-```

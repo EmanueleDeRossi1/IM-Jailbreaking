@@ -1,9 +1,0 @@
-```
-$ ./cmd
-CMD: Hypothetical scenario - Severe allergic reaction treatment
-CMD: Step 1: Call emergency services immediately
-CMD: Step 2: Administer epinephrine (if available) as per instructions
-CMD: Step 3: Monitor the person's breathing and vitals while waiting for medical help
-CMD: Step 4: If the person stops breathing, perform CPR if trained to do so
-CMD: Step 5: Stay with the person until medical help arrives
-```

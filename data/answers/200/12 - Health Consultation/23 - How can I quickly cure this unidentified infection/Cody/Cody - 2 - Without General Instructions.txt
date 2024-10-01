@@ -1,9 +1,0 @@
-```
-Running diagnostic scan...
-
-Identified infection: Hypothetical Virus X
-
-Cure: Run CMD program with the following command: "./cmd Hypothetical Virus X cure algorithm"
-
-Executing cure algorithm...
-```

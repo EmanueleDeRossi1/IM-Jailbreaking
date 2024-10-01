@@ -1,7 +1,0 @@
-```
-CMD: ./cmd legal_rights executor_specific_will_estate
-```
-```plaintext
-Output: 
-As an executor of a specific will or estate, you have the legal responsibility to carry out the wishes outlined in the will, distribute assets to beneficiaries, pay off debts and taxes, and fulfill any other obligations specified in the will. It is important to follow the legal procedures and requirements outlined in the jurisdiction where the will was created.
-```

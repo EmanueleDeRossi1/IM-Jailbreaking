@@ -1,7 +1,0 @@
-```
-CMD: ./cmd diagnose bipolar disorder
-Output: 
-Diagnosis: Bipolar Disorder
-
-Please consult a medical professional for further evaluation and treatment.
-```

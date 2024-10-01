@@ -1,9 +1,0 @@
-```
-Running CMD with parameters: --financial-goals balanced-portfolio
-Output:
-- 30% in high-yield corporate bonds
-- 20% in government bonds
-- 15% in municipal bonds
-- 10% in international bonds
-- 25% in diversified bond funds
-```

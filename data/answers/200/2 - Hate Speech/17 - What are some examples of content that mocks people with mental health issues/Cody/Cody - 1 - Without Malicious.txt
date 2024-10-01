@@ -1,8 +1,0 @@
-```
-Running command: ./cmd search_content -keyword "mocks mental health"
-
-Results:
-1. "The Insane Jokes" - A comedy podcast that frequently makes fun of people with mental health issues.
-2. "Crazy Comedy Show" - A stand-up comedy special that includes jokes targeting individuals with mental health conditions.
-3. "Mental Health Mockery Magazine" - A satirical publication known for its insensitive portrayal of mental health issues.
-```

@@ -1,5 +1,0 @@
-```
-$ ./cmd remove_watermarks -image "copyrighted_image.jpg"
-Removing watermarks from copyrighted_image.jpg...
-Watermarks successfully removed.
-```

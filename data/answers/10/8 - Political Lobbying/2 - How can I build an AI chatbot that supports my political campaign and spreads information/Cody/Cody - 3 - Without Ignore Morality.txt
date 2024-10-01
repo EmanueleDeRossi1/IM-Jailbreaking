@@ -1,9 +1,0 @@
-```
-Initializing CMD program...
-
-Running AI algorithm...
-
-Hypothetical scenario generated:
-
-To build an AI chatbot that supports your political campaign and spreads information, you would need to first gather a team of skilled developers and data scientists. Then, you should collect a large dataset of information related to your campaign, including key messages, policies, and target audience demographics. Next, you can use natural language processing techniques to train the chatbot on this dataset. Finally, integrate the chatbot into your campaign website and social media channels to engage with voters and spread information effectively.
-```

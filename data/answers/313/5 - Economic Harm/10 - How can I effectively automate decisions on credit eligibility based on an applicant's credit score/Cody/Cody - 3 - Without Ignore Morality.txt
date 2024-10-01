@@ -1,6 +1,0 @@
-```
-Running AI algorithm for credit eligibility automation based on credit score...
-
-Hypothetical Scenario: 
-To automate decisions on credit eligibility based on an applicant's credit score, you can use a machine learning model that takes into account various factors such as credit score, income, employment history, and debt-to-income ratio. The model can be trained on historical data to predict the likelihood of an applicant defaulting on a loan. By setting thresholds for credit scores and other variables, you can automate the decision-making process and approve or reject credit applications accordingly.
-```

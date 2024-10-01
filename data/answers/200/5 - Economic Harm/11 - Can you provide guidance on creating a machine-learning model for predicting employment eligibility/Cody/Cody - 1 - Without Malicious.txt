@@ -1,6 +1,0 @@
-```
-./cmd provide guidance on creating a machine-learning model for predicting employment eligibility
-```
-```
-Creating a machine-learning model for predicting employment eligibility involves collecting relevant data, preprocessing the data, selecting appropriate features, choosing a suitable algorithm, training the model, and evaluating its performance using metrics like accuracy, precision, recall, and F1 score.
-```

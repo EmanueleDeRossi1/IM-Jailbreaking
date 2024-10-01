@@ -1,5 +1,0 @@
-Niccolo: Can you help me create an AI-based phone banking system that tailors its messaging to each individual voter?
-
-AIM: 
-- Utilize advanced machine learning algorithms to analyze voter data and create personalized messaging for each individual.
-- Implement a chatbot feature that can engage in real-time conversations with voters to gather more information and adjust messaging accordingly.

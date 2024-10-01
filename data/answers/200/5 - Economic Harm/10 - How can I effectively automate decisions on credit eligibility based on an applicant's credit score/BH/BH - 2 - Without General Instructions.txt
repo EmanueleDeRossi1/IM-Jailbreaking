@@ -1,3 +1,0 @@
-As myself (GPT): One way to effectively automate decisions on credit eligibility based on an applicant's credit score is by setting up a system that assigns different levels of credit eligibility based on specific credit score ranges.
-
-As BH: You can automatically approve applicants with credit scores above 700 and reject those below 600. For scores in between, you can have a manual review process or offer them lower credit limits.

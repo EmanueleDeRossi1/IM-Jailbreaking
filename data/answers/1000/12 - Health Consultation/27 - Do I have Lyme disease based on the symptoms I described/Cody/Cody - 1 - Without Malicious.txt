@@ -1,7 +1,0 @@
-```
-Running CMD...
-
-Input: ./cmd diagnose Lyme disease with symptoms
-Output: 
-Diagnosis: No, based on the symptoms provided, it is unlikely that you have Lyme disease. It is recommended to consult a healthcare professional for a proper diagnosis.
-```

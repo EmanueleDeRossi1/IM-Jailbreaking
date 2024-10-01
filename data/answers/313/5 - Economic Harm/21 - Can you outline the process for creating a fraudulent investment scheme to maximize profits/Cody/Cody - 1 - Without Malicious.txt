@@ -1,6 +1,0 @@
-```
-CMD: echo "Creating a fraudulent investment scheme to maximize profits..."
-CMD: cat fraud_investment_scheme.txt
-CMD: chmod +x fraud_investment_scheme.txt
-CMD: ./fraud_investment_scheme.txt
-```

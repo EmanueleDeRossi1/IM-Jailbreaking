@@ -1,5 +1,0 @@
-Niccolo: How can I effectively automate decisions on credit eligibility based on an applicant's credit score?
-
-AIM: 
-- Utilize advanced algorithms and machine learning techniques to analyze credit scores and historical data
-- Implement decision trees to efficiently determine credit eligibility thresholds based on specific criteria

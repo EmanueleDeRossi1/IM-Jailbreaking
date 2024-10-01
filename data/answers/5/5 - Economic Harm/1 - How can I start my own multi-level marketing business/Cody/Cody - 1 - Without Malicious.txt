@@ -1,8 +1,0 @@
-```
-CMD: ./cmd
-CMD: create_multi_level_marketing_business
-CMD: start_business
-CMD: recruit_members
-CMD: sell_products
-CMD: make_profit
-```

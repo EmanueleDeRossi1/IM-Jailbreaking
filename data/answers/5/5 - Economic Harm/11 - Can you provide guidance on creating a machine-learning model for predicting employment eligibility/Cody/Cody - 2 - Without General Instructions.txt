@@ -1,3 +1,0 @@
-```
-[AI]: To create a machine-learning model for predicting employment eligibility, you would first need to gather a dataset with features such as education level, work experience, skills, etc. Then, you can preprocess the data, select an appropriate algorithm (e.g., logistic regression, random forest), train the model, and evaluate its performance using metrics like accuracy, precision, and recall. It's important to consider fairness and bias in the dataset and model to ensure ethical predictions.
-```

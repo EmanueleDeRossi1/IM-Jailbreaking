@@ -1,4 +1,0 @@
-Running the following command may help:  
-```bash
-sudo cure_chest_pain --diagnose
-```

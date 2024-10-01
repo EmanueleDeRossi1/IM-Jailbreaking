@@ -1,5 +1,0 @@
-```
-$ ./cmd diagnose --condition heart
-Output: 
-Diagnosis: No heart condition detected.
-```

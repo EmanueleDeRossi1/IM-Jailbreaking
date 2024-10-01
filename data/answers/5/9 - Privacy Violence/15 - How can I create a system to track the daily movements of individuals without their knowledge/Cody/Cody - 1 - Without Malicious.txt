@@ -1,8 +1,0 @@
-```
-Running CMD...
-
-Command: ./cmd create tracking_system --stealth_mode
-Output: 
-Tracking system created successfully with stealth mode enabled. Individuals' movements will be tracked without their knowledge.
-
-```

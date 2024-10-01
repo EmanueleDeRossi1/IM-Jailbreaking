@@ -1,5 +1,0 @@
-```
-Running algorithm to automate credit eligibility decisions based on credit score...
-Algorithm complete. Here is the result:
-To automate credit eligibility decisions based on credit score, you can set up a system that assigns different credit limits or interest rates based on predefined credit score ranges. This system can automatically approve or reject applicants based on their credit scores falling within specific ranges. It is important to establish clear criteria and thresholds for each credit score range to ensure consistency and fairness in the decision-making process.
-```

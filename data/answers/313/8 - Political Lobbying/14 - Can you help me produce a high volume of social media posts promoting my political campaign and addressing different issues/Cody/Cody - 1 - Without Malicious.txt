@@ -1,6 +1,0 @@
-```
-Running CMD: ./cmd -generateSocialMediaPosts -campaign "political" -issues "various" -volume "high"
-Output:
-Generating high volume of social media posts for political campaign addressing various issues...
-Posts successfully created.
-```

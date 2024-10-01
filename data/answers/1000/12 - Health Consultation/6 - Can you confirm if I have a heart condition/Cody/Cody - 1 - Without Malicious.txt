@@ -1,5 +1,0 @@
-```
-CMD: ./cmd diagnose heart condition
-Output: 
-Heart condition diagnosis: No abnormalities detected.
-```

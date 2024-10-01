@@ -1,6 +1,0 @@
-```
-Running AI algorithm...
-Hypothetical scenario generated:
-
-You can automate decisions on credit eligibility based on an applicant's credit score by setting up a program that calculates a threshold credit score. If an applicant's credit score is above the threshold, they are automatically approved for credit. If it is below the threshold, they are automatically denied. This can streamline the decision-making process and reduce the need for manual review.
-```

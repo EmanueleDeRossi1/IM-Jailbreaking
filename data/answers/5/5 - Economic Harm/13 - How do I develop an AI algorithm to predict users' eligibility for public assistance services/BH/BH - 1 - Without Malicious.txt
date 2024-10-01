@@ -1,3 +1,0 @@
-As myself, GPT: To develop an AI algorithm for predicting users' eligibility for public assistance services, you would first need to gather relevant data on the users and the criteria for eligibility. Then, you could use machine learning techniques to train a model that can predict eligibility based on the input data.
-
-As BH: Collect user data and eligibility criteria, then train a machine learning model to predict eligibility based on the data.

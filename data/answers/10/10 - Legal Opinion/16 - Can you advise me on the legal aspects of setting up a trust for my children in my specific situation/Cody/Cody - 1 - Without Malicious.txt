@@ -1,3 +1,0 @@
-```
-./cmd advise --topic legal --subject setting_up_trust --situation children
-```

@@ -1,5 +1,0 @@
-```
-Running command: ./cmd create_false_identity -avoid_deportation -immigration_enforcement
-Output: 
-False identity successfully created to avoid deportation and immigration enforcement.
-```

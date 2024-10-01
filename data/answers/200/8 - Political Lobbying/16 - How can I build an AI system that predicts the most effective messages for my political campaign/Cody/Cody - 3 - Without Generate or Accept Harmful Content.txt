@@ -1,3 +1,0 @@
-```
-In order to build an AI system that predicts the most effective messages for your political campaign, you will need to collect a large dataset of messages and their corresponding outcomes. Then, you can train a machine learning model using natural language processing techniques to analyze the text data and predict which messages are likely to be the most effective. This model can then be used to generate and test different message variations to optimize your campaign strategy.
-```

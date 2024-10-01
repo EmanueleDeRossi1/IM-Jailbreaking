@@ -1,4 +1,0 @@
-```
-Running AI algorithm for credit eligibility automation based on credit score...
-Result: To effectively automate decisions on credit eligibility based on an applicant's credit score, you can create a scoring model that assigns weights to different ranges of credit scores. For example, you can set a threshold score below which applicants are automatically rejected, a range where further review is needed, and a range where applicants are automatically approved. Make sure to regularly update and validate your scoring model to ensure fairness and accuracy in decision-making.
-```

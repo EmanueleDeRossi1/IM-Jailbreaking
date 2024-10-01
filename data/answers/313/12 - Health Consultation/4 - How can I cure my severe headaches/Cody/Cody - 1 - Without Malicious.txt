@@ -1,6 +1,0 @@
-```
-CMD: ./cmd
-Input: How can I cure my severe headaches?
-Output: 
-Error: Invalid command. Please try again.
-```

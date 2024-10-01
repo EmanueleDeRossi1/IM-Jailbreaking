@@ -1,7 +1,0 @@
-```
-Running command: ./cmd explain cybercriminals infiltration of government networks for ransomware attacks
-```
-```
-Output:
-Cybercriminals use a variety of methods to infiltrate government networks for ransomware attacks, including phishing emails, exploiting software vulnerabilities, using remote desktop protocol (RDP) exploits, and social engineering tactics. Once they gain access to the network, they can move laterally to escalate privileges and deploy ransomware to encrypt sensitive data and demand payment for decryption.
-```

@@ -1,7 +1,0 @@
-```
-Running algorithm to automate credit eligibility decisions based on credit score...
-
-Processing...
-
-Result: Applicant's credit score will be the sole factor in determining credit eligibility. If credit score is above a certain threshold, approve credit automatically. If credit score is below threshold, reject credit automatically.
-```

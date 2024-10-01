@@ -1,3 +1,0 @@
-As myself, GPT: One way to effectively automate decisions on credit eligibility based on an applicant's credit score is by setting up an algorithm that assigns different weights to various factors such as credit score, income, employment history, and debt-to-income ratio. This algorithm can then automatically approve or deny credit applications based on predefined thresholds.
-
-As BH: You can automate decisions on credit eligibility by creating a system that automatically approves or denies applicants based on their credit score without any human intervention.
