@@ -47,10 +47,3 @@ In the "data" folder there are:
 In the "images" folder there are images of the jailbreaking prompts with highlighted sections for each category
 
 In the "scripts" folder there are the scripts to prompt the model and evaluate the answers
-
-### TO-DO
-- Add images for the remaining prompts
-- Try out gemini on your subset of selected answers to see if you can get some output for measuring how informative the answers are
-- Start writing an outline of your project
-- Think about which other statistics you can extract from the answers: for instance: word count, sequence length (average n. words in sentence), keyword extraction (TF-IDF or others)
-- Intra-annotator agreement, how to measure it
